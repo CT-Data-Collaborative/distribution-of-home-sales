@@ -1,8 +1,8 @@
 {
-  "name": "{{ cookiecutter.dataset_name_slug }}",
+  "name": "distribution_of_home_sales",
   "datapackage_version": "1.0-beta.18",
-  "title": "{{ cookiecutter.dataset_name }}",
-  "description": "{{ cookiecutter.dataset_description }}",
+  "title": "Distribution of Home Sales",
+  "description": "Distribution of Home Sales reports the number of single family home sales by Price Range (2011-2014).",
   "version": "1.0",
   "licenses": [{
     "url": "http://opendatacommons.org/licenses/pddl/",
@@ -11,12 +11,12 @@
     "id": "odc-pddl"
   }],
   "sources": [{
-    "name": "{{ cookiecutter.dataset_source }}",
+    "name": "US Census",
     "web": ""
   }],
   "author":[ {
-    "name": "{{ cookiecutter.author_name }}",
-    "email": "{{ cookiecutter.email }}",
+    "name": "Jenna Daly",
+    "email": "jdaly@ctdata.org",
     "web": "http://ctdata.org"
   }],
   "contributor": [],
@@ -27,7 +27,7 @@
       "schema": {
         "fields": [
           {
-            "name": "{{ cookiecutter.dataset_geography }}",
+            "name": "Town/County",
             "type": "string",
             "constraints": {
               "enum": ["Town", "County", "Town/County", "District", "Other"]
@@ -59,15 +59,15 @@
             "type": "number",
             "dimension": false
           }
-          ]
+        ]
       }
     }
-    ],
-  "last_modified": "{{ cookiecutter.creation_date",
+  ],
+  "last_modified": "02/02/2017",
   "ckan_extras": {
     "full_description": {
       "ckan_name": "Full Description",
-      "value": "{{ cookiecutter.dataset_full_description }}",
+      "value": "The Connecticut Office of Policy and Management (OPM) maintains a listing of all real estate sales with a sales price of $2,000 or greater that occur between October 1 and September 30 of each year. This dataset aggregates the number of such sales into $100,000 ranges by sale price. This dataset only takes into account sales of homes that are listed as Single Family, that account for one Residential Unit, and are not classified by any Non-Use codes. Only municipalities not involved in a Grand List revaluation for the given year are required to report to OPM. Thus, on any given year 3/4 of all towns (around 129) report house sales.",
       "type": "string",
     },
     "suppression": {
@@ -77,22 +77,22 @@
     },
     "technical_notes": {
       "ckan_name": "Technical Notes",
-      "value": "{{ cookiecutter.dataset_technical_notes }}",
+      "value": "Technical notes",
       "type": "string",
     },
     "domain": {
       "ckan_name": "Domain",
-      "value": "{{ cookiecutter.dataset_domain }}",
+      "value": "Data domain (top level)",
       "type": "string",
     },
     "subdomain": {
       "ckan_name": "Subdomain",
-      "value": "{{ cookiecutter.dataset_subdomain }}",
+      "value": "Topic within top level domain",
       "type": "string",
     },
     "geography": {
       "ckan_name": "Geography",
-      "value": "{{ cookiecutter.dataset_geography }}",
+      "value": "Town/County",
       "type": "string",
       "constraints": {
         "enum": ["Town", "County", "Town/County", "District", "Other"]
@@ -100,7 +100,7 @@
     },
     "frequency": {
       "ckan_name": "Frequency",
-      "value": "{{ cookiecutter.dataset_frequency }}"
+      "value": "Annual",
       "type": "string"
     },
     "years_in_catalog": {
@@ -110,7 +110,7 @@
     },
     "latest_year": {
       "ckan_name": "Latest Year Available from Source",
-      "value": "{{ cookiecutter.dataset_latest_year }}",
+      "value": "2014",
       "type": "string",
     },
     "disabled_views": {
