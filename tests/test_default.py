@@ -1,5 +1,4 @@
 import pytest
-
 ##################################################################
 #
 # Basic testing script for Distribution of Home Sales
@@ -7,7 +6,6 @@ import pytest
 # On 02/02/2017
 #
 ##################################################################
-
 
 
 
@@ -20,3 +18,6 @@ def test_spotcheck_testing(spotcheck_results):
 
 def test_geography_count(geographies, geography_units_count):
     assert len(geographies) == geography_units_count
+
+def test_geoes_are_valid_towns(towns_and_counties, geographies):
+    assert set(geographies) == set(towns_and_counties)
