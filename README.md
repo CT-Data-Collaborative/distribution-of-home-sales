@@ -26,11 +26,15 @@ for data suppression, we specifically exclude raw files from version control.
 Processing typically happens in either Python or R. However, testing is done with Python. We recommend setting up a 
 virtual environment for managing any specific dependencies for testing a given dataset as follow:
 
-`python3 -m venv /path/to/new/virtual/environment`
+`python3 -m venv /venv`
+
+Then activate the virtualenv:
+
+`source venv/bin/activate`
 
 You can then install the requirements like so:
 
-`pip install -r requirements.txt`
+`pip3 install -r requirements.txt`
 
 
 ### Metadata
@@ -92,7 +96,7 @@ The filters should be sufficiently comprehensive so as to return only one result
 
 Testing relies on PyTest and a custom CTData PyTest plugin which is installed as a requirement dependency.
 
-An example testing script is included in the `/tests` directory. Running `pytest -v` will execute this and 
+An example testing script is included in the `/tests` directory. Running `pytest -v tests` will execute this and 
 other tests.
 
 Our custom PyTest plugin will bootstrap a number of fixtures with values that can be tested without additional logic. 
