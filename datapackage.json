@@ -14,11 +14,11 @@
         "name": "uscensus",
         "web": ""
     }],
-    "author": [{
+    "author": {
         "name": "Jenna Daly",
         "email": "jdaly@ctdata.org",
         "web": "http://ctdata.org"
-    }],
+    },
     "contributor": [],
     "resources": [{
         "path": "data/distribution-of-home-sales_2011-2014.csv",
@@ -108,7 +108,7 @@
         },
         "years_in_catalog": {
             "ckan_name": "Years in Catalog",
-            "value": [2011, 2012, 2013, 2014],
+            "value": ["2011", "2012", "2013", "2014"],
             "type": "array"
         },
         "latest_year": {
@@ -133,7 +133,10 @@
             "value": 178,
             "type": "string"
         },
-        "default": {}
+          "default": {
+            "ckan_name": "Default",
+            "value": {}
+        }
     },
     "spot_checks": [{
             "type": "$lookup",
