@@ -1,4 +1,6 @@
-distribution-of-home-sales
+# distribution-of-home-sales
+
+[![Build Status](https://travis-ci.org/CT-Data-Collaborative/distribution-of-home-sales.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/distribution-of-home-sales)
 
 Distribution of Home Sales reports the number of single family home sales by Price Range.
 
