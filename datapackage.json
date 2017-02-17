@@ -141,6 +141,20 @@
           "number type": "int",
           "value": 0
         }
+      },
+		{
+        "type": "$lookup",
+        "filter": {
+          "Town/County": "Andover",
+          "Year": "2014",
+          "Price Range": "Less than $100,000",
+          "Measure Type": "Number"
+        },
+        "expected": {
+          "type": "$match",
+          "number type": "int",
+          "value": -9999
+        }
       }
     ],
 	"dimension_groups": [
