@@ -85,12 +85,12 @@
         },
         "domain": {
             "ckan_name": "Domain",
-            "value": "Data domain (top level)",
+            "value": "Housing",
             "type": "string"
         },
         "subdomain": {
             "ckan_name": "Subdomain",
-            "value": "Topic within top level domain",
+            "value": "Housing Characteristics",
             "type": "string"
         },
         "geography": {
