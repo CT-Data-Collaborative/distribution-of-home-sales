@@ -70,7 +70,7 @@
     "ckan_extras": {
         "full_description": {
             "ckan_name": "Full Description",
-            "value": "The Connecticut Office of Policy and Management (OPM) maintains a listing of all real estate sales with a sales price of $2,000 or greater that occur between October 1 and September 30 of each year. This dataset aggregates the number of such sales into $100,000 ranges by sale price. This dataset only takes into account sales of homes that are listed as Single Family, that account for one Residential Unit, and are not classified by any Non-Use codes. Only municipalities not involved in a Grand List revaluation for the given year are required to report to OPM. Thus, on any given year 3/4 of all towns (around 129) report house sales.",
+            "value": "The Connecticut Office of Policy and Management (OPM) maintains a listing of all real estate sales with a sales price of $2,000 or greater that occur between October 1 and September 30 of each year. This dataset aggregates the number of such sales into $100,000 ranges by sale price. This dataset only takes into account sales of homes that are listed as Single Family, that account for one Residential Unit, and are not classified by any Non-Use codes. Only municipalities not involved in a Grand List revaluation for the given year are required to report to OPM. Thus, on any given year 3/4 of all towns (around 129) report house sales. Data is typically published with a two year lag.",
             "type": "string"
         },
         "suppression": {
