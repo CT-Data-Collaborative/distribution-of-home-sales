@@ -1,3 +1,7 @@
+library(devtools)
+library(datapkg)
+library(data.table)
+
 ##################################################################
 #
 # Processing Script for Distribution of Home Sales
@@ -170,8 +174,9 @@ data_with_price_2014[
 
 
 # Now backfill missing towns (still with complete levels of price range) -> these are coded as NA
-fipsDatasetFileName <- file.path(getwd(), "raw", "town_fips.csv")
-fips<- read.csv(fipsDatasetFileName, header=T, stringsAsFactors=F)
+town_fips_dp_URL <- 'https://raw.githubusercontent.com/CT-Data-Collaborative/ct-town-list/master/datapackage.json'
+town_fips_dp <- datapkg_read(path = town_fips_dp_URL)
+fips <- (town_fips_dp$data[[1]])
 
 setDT(fips)
 setkey(fips, `Town`)
@@ -271,26 +276,27 @@ county_2013 <- copy(data_with_price_and_towns_and_fips_2013)
 county_2014 <- copy(data_with_price_and_towns_and_fips_2014)
 
 county_2011[, `:=`(
-  FIPS = substr(FIPS, 1, 4),
+  FIPS = substr(FIPS, 1, 5),
   `Town/County` = NULL
 )]
 county_2012[, `:=`(
-  FIPS = substr(FIPS, 1, 4),
+  FIPS = substr(FIPS, 1, 5),
   `Town/County` = NULL
 )]
 
 county_2013[, `:=`(
-  FIPS = substr(FIPS, 1, 4),
+  FIPS = substr(FIPS, 1, 5),
   `Town/County` = NULL
 )]
 county_2014[, `:=`(
-  FIPS = substr(FIPS, 1, 4),
+  FIPS = substr(FIPS, 1, 5),
   `Town/County` = NULL
 )]
 
 # Add county information from crosswalk
-fipsDatasetFileName <- file.path(getwd(), "raw", "county_fips.csv")
-fips<- read.csv(fipsDatasetFileName, header=T, stringsAsFactors=F)
+county_fips_dp_URL <- 'https://raw.githubusercontent.com/CT-Data-Collaborative/ct-county-list/master/datapackage.json'
+county_fips_dp <- datapkg_read(path = county_fips_dp_URL)
+fips <- (county_fips_dp$data[[1]])
 
 setDT(fips)
 setnames(fips, "County", "Town/County")
