@@ -1,157 +1,179 @@
 {
-	"name": "distribution_of_home_sales",
-	"datapackage_version": "1.0-beta.18",
-	"title": "Distribution of Home Sales",
-	"description": "Distribution of Home Sales reports the number of single family home sales by Price Range (2011-2014).",
-	"version": "1.0",
-	"licenses": [{
-		"url": "http://opendatacommons.org/licenses/pddl/",
-		"name": "Open Data Commons Public Domain",
-		"version": "1.0",
-		"id": "odc-pddl"
-	}],
-	"sources": [{
-		"name": "US Census",
-		"web": ""
-	}],
-	"author": [{
-		"name": "Jenna Daly",
-		"email": "jdaly@ctdata.org",
-		"web": "http://ctdata.org"
-	}],
-	"contributor": [],
-	"resources": [{
-		"path": "data/distribution-of-home-sales_2011-2014.csv",
-		"format": "csv",
-		"schema": {
-			"fields": [{
-				"name": "Town/County",
-				"type": "string",
-				"dimension": false
-			}, {
-				"name": "FIPS",
-				"type": "string",
-				"dimension": false
-			}, {
-				"name": "Year",
-				"type": "string",
-				"dimension": false
-			}, {
-               "name": "Price Range",
+    "name": "distribution-of-home-sales",
+    "datapackage_version": "1.0-beta.18",
+    "title": "Distribution of Home Sales",
+    "description": "Distribution of Home Sales reports the number of single family home sales by Price Range (2011-2014).",
+    "version": "1.0",
+    "licenses": [{
+        "url": "http://opendatacommons.org/licenses/pddl/",
+        "name": "Open Data Commons Public Domain",
+        "version": "1.0",
+        "id": "odc-pddl"
+    }],
+    "sources": [{
+        "name": "ctopm",
+        "web": ""
+    }],
+    "author": {
+        "name": "Jenna Daly",
+        "email": "jdaly@ctdata.org",
+        "web": "http://ctdata.org"
+    },
+    "contributor": [],
+    "resources": [{
+        "path": "data/distribution-of-home-sales_2011-2014.csv",
+        "format": "csv",
+        "schema": {
+            "fields": [{
+                "name": "Town/County",
                 "type": "string",
-                "dimension": true
+                "dimension": false
             }, {
-				"name": "Measure Type",
-				"type": "string",
-				"dimension": true
-			}, {
-				"name": "Variable",
-				"type": "string",
-				"dimension": false
-			}, {
-				"name": "Value",
-				"type": "number",
-				"dimension": false
-			}]
-		}
-	}],
-	"last_modified": "02/02/2017",
-	"ckan_extras": {
-		"full_description": {
-			"ckan_name": "Full Description",
-			"value": "The Connecticut Office of Policy and Management (OPM) maintains a listing of all real estate sales with a sales price of $2,000 or greater that occur between October 1 and September 30 of each year. This dataset aggregates the number of such sales into $100,000 ranges by sale price. This dataset only takes into account sales of homes that are listed as Single Family, that account for one Residential Unit, and are not classified by any Non-Use codes. Only municipalities not involved in a Grand List revaluation for the given year are required to report to OPM. Thus, on any given year 3/4 of all towns (around 129) report house sales.",
-			"type": "string"
-		},
-		"suppression": {
-			"ckan_name": "Suppression",
-			"value": "",
-			"type": "string"
-		},
-		"technical_notes": {
-			"ckan_name": "Technical Notes",
-			"value": "Technical notes",
-			"type": "string"
-		},
-		"domain": {
-			"ckan_name": "Domain",
-			"value": "Data domain (top level)",
-			"type": "string"
-		},
-		"subdomain": {
-			"ckan_name": "Subdomain",
-			"value": "Topic within top level domain",
-			"type": "string"
-		},
-		"geography": {
-			"ckan_name": "Geography",
-			"value": "Town/County",
-			"type": "string",
-			"constraints": {
-				"enum": ["Town", "County", "Town/County", "District", "Other"]
-			}
-		},
-		"frequency": {
-			"ckan_name": "Frequency",
-			"value": "Annual",
-			"type": "string"
-		},
-		"years_in_catalog": {
-			"ckan_name": "Years in Catalog",
-			"value": [2011, 2012, 2013, 2014],
-			"type": "array"
-		},
-		"latest_year": {
-			"ckan_name": "Latest Year Available from Source",
-			"value": "2014",
-			"type": "string"
-		},
-		"disabled_views": {
-			"ckan_name": "Disabled Views",
-			"value": [],
-			"type": "array",
-			"constraings": {
-				"enum": ["map", "table", "bar", "line"]
-			}
-		},
-		"units": {
-			"ckan_name": "Units",
-			"value": {
-				"Number": "",
-				"Percent": "%"
-			}
-		},
-        "expected_number_of_geographies": {
-          "ckan_name": "Expected Number of Unique Geographies",
-          "value": 178,
-          "type": "string"
-        },
-		"default": {}
-	},
-	"spot_checks": [
-      {
-        "type": "$lookup",
-        "filter": {
-          "Town/County": "Andover",
-          "Year": "2011",
-          "Price Range": "Less than $100,000",
-          "Measure Type": "Number"
-        },
-        "expected": {
-          "type": "$match",
-          "number type": "int",
-          "value": 0
+                "name": "FIPS",
+                "type": "string",
+                "dimension": false
+            }, {
+                "name": "Year",
+                "type": "string",
+                "dimension": false
+            }, {
+                "name": "Price Range",
+                "type": "string",
+                "dimension": true,
+								"constraints": {
+									"enum": [
+					            "Less than $100,000",
+					            "$100,000 to $199,999",
+					            "$200,000 to $299,999",
+					            "$300,000 to $399,999",
+					            "$400,000 and Over"
+					        ]
+								}
+            }, {
+                "name": "Measure Type",
+                "type": "string",
+                "dimension": true,
+								"constraints": { "enum": [ "Number" ] }
+            }, {
+                "name": "Variable",
+                "type": "string",
+                "dimension": true,
+								"constraints": { "enum": [ "Number of Home Sales" ] }
+            }, {
+                "name": "Value",
+                "type": "number",
+                "dimension": false
+            }]
         }
-      }
+    }],
+    "last_modified": "02/02/2017",
+    "ckan_extras": {
+        "full_description": {
+            "ckan_name": "Full Description",
+            "value": "The Connecticut Office of Policy and Management (OPM) maintains a listing of all real estate sales with a sales price of $2,000 or greater that occur between October 1 and September 30 of each year. This dataset aggregates the number of such sales into $100,000 ranges by sale price. This dataset only takes into account sales of homes that are listed as Single Family, that account for one Residential Unit, and are not classified by any Non-Use codes. Only municipalities not involved in a Grand List revaluation for the given year are required to report to OPM. Thus, on any given year 3/4 of all towns (around 129) report house sales. Data is typically published with a two year lag.",
+            "type": "string"
+        },
+        "suppression": {
+            "ckan_name": "Suppression",
+            "value": "",
+            "type": "string"
+        },
+        "technical_notes": {
+            "ckan_name": "Technical Notes",
+            "value": "Technical notes",
+            "type": "string"
+        },
+        "domain": {
+            "ckan_name": "Domain",
+            "value": "Housing",
+            "type": "string"
+        },
+        "subdomain": {
+            "ckan_name": "Subdomain",
+            "value": "Housing Characteristics",
+            "type": "string"
+        },
+        "geography": {
+            "ckan_name": "Geography",
+            "value": "Town/County",
+            "type": "string",
+            "constraints": {
+                "enum": ["Town", "County", "Town/County", "District", "Other"]
+            }
+        },
+        "frequency": {
+            "ckan_name": "Frequency",
+            "value": "Annual",
+            "type": "string"
+        },
+        "years_in_catalog": {
+            "ckan_name": "Years in Catalog",
+            "value": ["2011", "2012", "2013", "2014"],
+            "type": "array"
+        },
+        "latest_year": {
+            "ckan_name": "Latest Year Available",
+            "value": "2014",
+            "type": "string"
+        },
+        "disabled_views": {
+            "ckan_name": "Disabled Views",
+            "value": [],
+            "type": "array",
+            "constraings": {
+                "enum": ["map", "table", "bar", "line"]
+            }
+        },
+        "units": {
+            "ckan_name": "Units",
+            "value": ""
+        },
+        "expected_number_of_geographies": {
+            "ckan_name": "Expected Number of Unique Geographies",
+            "value": 178,
+            "type": "string"
+        },
+          "default": {
+            "ckan_name": "Default",
+            "value": {}
+        }
+    },
+    "spot_checks": [{
+            "type": "$lookup",
+            "filter": {
+                "Town/County": "Andover",
+                "Year": "2011",
+                "Price Range": "Less than $100,000",
+                "Measure Type": "Number"
+            },
+            "expected": {
+                "type": "$match",
+                "number type": "int",
+                "value": 0
+            }
+        },
+        {
+            "type": "$lookup",
+            "filter": {
+                "Town/County": "Andover",
+                "Year": "2014",
+                "Price Range": "Less than $100,000",
+                "Measure Type": "Number"
+            },
+            "expected": {
+                "type": "$match",
+                "number type": "int",
+                "value": -9999
+            }
+        }
     ],
-	"dimension_groups": [
-      {
+    "dimension_groups": [{
         "Price Range": [
-          "Less than $100,000",
-          "$100,000 to $199,999",
-          "$200,000 to $299,999",
-          "$300,000 to $399,999",
-          "$400,000 and Over"
+            "Less than $100,000",
+            "$100,000 to $199,999",
+            "$200,000 to $299,999",
+            "$300,000 to $399,999",
+            "$400,000 and Over"
         ]
-      }
-    ]
+    }]
 }
