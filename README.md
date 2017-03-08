@@ -4,6 +4,8 @@
 
 Distribution of Home Sales reports the number of single family home sales by Price Range.
 
+Data Source: <https://data.ct.gov/Housing-and-Development/Real-Estate-Sales-By-Town-for-2011-2012-2013-2014/8udc-aepg>
+
 ## License MIT
 
 ## Getting Setup
