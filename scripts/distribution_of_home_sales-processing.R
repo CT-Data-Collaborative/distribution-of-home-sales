@@ -66,11 +66,11 @@ data_2013 <- raw[
   by = list(`Town/County`, `Price Range`)
   ]
 
-data_2014 <- raw[
-  Year == 2014,
-  list(Value = .N),
-  by = list(`Town/County`, `Price Range`)
-  ]
+# data_2014 <- raw[
+#   Year == 2014,
+#   list(Value = .N),
+#   by = list(`Town/County`, `Price Range`)
+#   ]
 
 setDT(data_2011)
 setkey(data_2011, `Town/County`, `Price Range`)
@@ -81,8 +81,8 @@ setkey(data_2012, `Town/County`, `Price Range`)
 setDT(data_2013)
 setkey(data_2013, `Town/County`, `Price Range`)
 
-setDT(data_2014)
-setkey(data_2014, `Town/County`, `Price Range`)
+# setDT(data_2014)
+# setkey(data_2014, `Town/County`, `Price Range`)
 
 # We now have data, need backfilling
 # backfill prices first - missing price categories are coded as zero
@@ -109,10 +109,10 @@ backfill_price_2013 <- expand.grid(
   `Price Range` = prices
 )
 
-backfill_price_2014 <- expand.grid(
-  `Town/County` = unique(data_2014$`Town/County`),
-  `Price Range` = prices
-)
+# backfill_price_2014 <- expand.grid(
+#   `Town/County` = unique(data_2014$`Town/County`),
+#   `Price Range` = prices
+# )
 
 
 setDT(backfill_price_2011)
@@ -124,8 +124,8 @@ setkey(backfill_price_2012, `Town/County`, `Price Range`)
 setDT(backfill_price_2013)
 setkey(backfill_price_2013, `Town/County`, `Price Range`)
 
-setDT(backfill_price_2014)
-setkey(backfill_price_2014, `Town/County`, `Price Range`)
+# setDT(backfill_price_2014)
+# setkey(backfill_price_2014, `Town/County`, `Price Range`)
 
 setDT(data_2011)
 setkey(data_2011, `Town/County`, `Price Range`)
@@ -136,14 +136,14 @@ setkey(data_2012, `Town/County`, `Price Range`)
 setDT(data_2013)
 setkey(data_2013, `Town/County`, `Price Range`)
 
-setDT(data_2014)
-setkey(data_2014, `Town/County`, `Price Range`)
+# setDT(data_2014)
+# setkey(data_2014, `Town/County`, `Price Range`)
 
 data_with_price_2011 <- merge(data_2011, backfill_price_2011, all.y = T) #NAs present
 data_with_price_2012 <- merge(data_2012, backfill_price_2012, all.y = T) #NAs present
 
 data_with_price_2013 <- merge(data_2013, backfill_price_2013, all.y = T) #NAs present
-data_with_price_2014 <- merge(data_2014, backfill_price_2014, all.y = T) #NAs present
+# data_with_price_2014 <- merge(data_2014, backfill_price_2014, all.y = T) #NAs present
 
 #any(is.na(data_with_price_2011))
 
@@ -166,11 +166,11 @@ data_with_price_2013[
   Value := 0  
   ]
 
-setDT(data_with_price_2014)
-data_with_price_2014[
-  is.na(Value),
-  Value := 0  
-  ]
+# setDT(data_with_price_2014)
+# data_with_price_2014[
+#   is.na(Value),
+#   Value := 0  
+#   ]
 
 
 # Now backfill missing towns (still with complete levels of price range) -> these are coded as NA
@@ -194,13 +194,13 @@ setDT(data_with_price_2012)
 setkey(data_with_price_2012, `Town/County`, `Price Range`)
 setDT(data_with_price_2013)
 setkey(data_with_price_2013, `Town/County`, `Price Range`)
-setDT(data_with_price_2014)
-setkey(data_with_price_2014, `Town/County`, `Price Range`)
+# setDT(data_with_price_2014)
+# setkey(data_with_price_2014, `Town/County`, `Price Range`)
 
 data_with_price_and_towns_2011 <- merge(data_with_price_2011, backfill_towns, all.y = T) #NAs present
 data_with_price_and_towns_2012 <- merge(data_with_price_2012, backfill_towns, all.y = T) #NAs present
 data_with_price_and_towns_2013 <- merge(data_with_price_2013, backfill_towns, all.y = T) #NAs present
-data_with_price_and_towns_2014 <- merge(data_with_price_2014, backfill_towns, all.y = T) #NAs present
+# data_with_price_and_towns_2014 <- merge(data_with_price_2014, backfill_towns, all.y = T) #NAs present
 
 #any(is.na(data_with_price_and_towns_2011))
 #======================================================================================================================
@@ -212,12 +212,12 @@ setkey(fips, `Town/County`)
 setDT(data_with_price_and_towns_2011)
 setDT(data_with_price_and_towns_2012)
 setDT(data_with_price_and_towns_2013)
-setDT(data_with_price_and_towns_2014)
+# setDT(data_with_price_and_towns_2014)
 
 data_with_price_and_towns_and_fips_2011 <- merge(fips, data_with_price_and_towns_2011) #NAs still present
 data_with_price_and_towns_and_fips_2012 <- merge(fips, data_with_price_and_towns_2012) #NAs still present
 data_with_price_and_towns_and_fips_2013 <- merge(fips, data_with_price_and_towns_2013) #NAs still present
-data_with_price_and_towns_and_fips_2014 <- merge(fips, data_with_price_and_towns_2014) #NAs still present
+# data_with_price_and_towns_and_fips_2014 <- merge(fips, data_with_price_and_towns_2014) #NAs still present
 
 #remove(fips)
 
@@ -226,7 +226,7 @@ data_with_price_and_towns_and_fips_2014 <- merge(fips, data_with_price_and_towns
 state_2011 <- copy(data_with_price_and_towns_and_fips_2011)
 state_2012 <- copy(data_with_price_and_towns_and_fips_2012)
 state_2013 <- copy(data_with_price_and_towns_and_fips_2013)
-state_2014 <- copy(data_with_price_and_towns_and_fips_2014)
+# state_2014 <- copy(data_with_price_and_towns_and_fips_2014)
 
 state_2011 <- state_2011[
   ,
@@ -258,22 +258,22 @@ state_2013 <- state_2013[
   by = `Price Range`
   ]
 
-state_2014 <- state_2014[
-  ,
-  list(
-    `Town/County` = "Connecticut",
-    FIPS = "09",
-    Value = sum(Value, na.rm = T)
-  ),
-  by = `Price Range`
-  ]
+# state_2014 <- state_2014[
+#   ,
+#   list(
+#     `Town/County` = "Connecticut",
+#     FIPS = "09",
+#     Value = sum(Value, na.rm = T)
+#   ),
+#   by = `Price Range`
+#   ]
 
 
 # take a copy of dataset
 county_2011 <- copy(data_with_price_and_towns_and_fips_2011)
 county_2012 <- copy(data_with_price_and_towns_and_fips_2012)
 county_2013 <- copy(data_with_price_and_towns_and_fips_2013)
-county_2014 <- copy(data_with_price_and_towns_and_fips_2014)
+# county_2014 <- copy(data_with_price_and_towns_and_fips_2014)
 
 county_2011[, `:=`(
   FIPS = substr(FIPS, 1, 5),
@@ -288,10 +288,10 @@ county_2013[, `:=`(
   FIPS = substr(FIPS, 1, 5),
   `Town/County` = NULL
 )]
-county_2014[, `:=`(
-  FIPS = substr(FIPS, 1, 5),
-  `Town/County` = NULL
-)]
+# county_2014[, `:=`(
+#   FIPS = substr(FIPS, 1, 5),
+#   `Town/County` = NULL
+# )]
 
 # Add county information from crosswalk
 county_fips_dp_URL <- 'https://raw.githubusercontent.com/CT-Data-Collaborative/ct-county-list/master/datapackage.json'
@@ -304,21 +304,21 @@ setkey(fips, FIPS)
 setkey(county_2011, FIPS)
 setkey(county_2012, FIPS)
 setkey(county_2013, FIPS)
-setkey(county_2014, FIPS)
+# setkey(county_2014, FIPS)
 
 fips$FIPS <- as.character(fips$FIPS)
 #NAs still present
 county_2011 <- merge.data.frame(fips, county_2011, on="FIPS")
 county_2012 <- merge.data.frame(fips, county_2012, on="FIPS")
 county_2013 <- merge.data.frame(fips, county_2013, on="FIPS")
-county_2014 <- merge.data.frame(fips, county_2014, on="FIPS")
+# county_2014 <- merge.data.frame(fips, county_2014, on="FIPS")
 
 #remove(fips)
 
 setDT(county_2011)
 setDT(county_2012)
 setDT(county_2013)
-setDT(county_2014)
+# setDT(county_2014)
 
 # Aggregate to county level
 county_2011 <- county_2011[
@@ -345,32 +345,33 @@ county_2013 <- county_2013[
   by = list(`Town/County`, FIPS, `Price Range`)
   ]
 
-county_2014 <- county_2014[
-  ,
-  list(
-    Value = sum(Value, na.rm = T)
-  ),
-  by = list(`Town/County`, FIPS, `Price Range`)
-  ]
+# county_2014 <- county_2014[
+#   ,
+#   list(
+#     Value = sum(Value, na.rm = T)
+#   ),
+#   by = list(`Town/County`, FIPS, `Price Range`)
+#   ]
 
 #NAs still present
 data_all_2011 <- rbind(data_with_price_and_towns_and_fips_2011, state_2011, county_2011)
 data_all_2012 <- rbind(data_with_price_and_towns_and_fips_2012, state_2012, county_2012)
 data_all_2013 <- rbind(data_with_price_and_towns_and_fips_2013, state_2013, county_2013)
-data_all_2014 <- rbind(data_with_price_and_towns_and_fips_2014, state_2014, county_2014)
+# data_all_2014 <- rbind(data_with_price_and_towns_and_fips_2014, state_2014, county_2014)
 
 #remove(state, county)
 
 data_all_2011$Year = 2011
 data_all_2012$Year = 2012
 data_all_2013$Year = 2013
-data_all_2014$Year = 2014
+# data_all_2014$Year = 2014
 
 #merge all years together
 data_all <- rbind(data_all_2011,
                   data_all_2012,
-                  data_all_2013,
-                  data_all_2014)
+                  data_all_2013
+                  #,data_all_2014
+                  )
 
 # Add extra information
 data_all[, `:=`(
@@ -404,7 +405,7 @@ data_all <- data_all[order(`Town/County`, `FIPS` , `Price Range`)]
 # Write to File
 write.table(
   data_all,
-  file.path(getwd(), "data", "distribution-of-home-sales_2011-2014.csv"),
+  file.path(getwd(), "data", "distribution-of-home-sales_2011-2013.csv"),
   sep = ",",
   row.names = F,
   na = "-9999"

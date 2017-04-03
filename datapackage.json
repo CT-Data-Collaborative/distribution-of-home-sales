@@ -2,7 +2,7 @@
     "name": "distribution-of-home-sales",
     "datapackage_version": "1.0-beta.18",
     "title": "Distribution of Home Sales",
-    "description": "Distribution of Home Sales reports the number of single family home sales by Price Range (2011-2014).",
+    "description": "Distribution of Home Sales reports the number of single family home sales by Price Range (2011-2013).",
     "version": "1.0",
     "licenses": [{
         "url": "http://opendatacommons.org/licenses/pddl/",
@@ -19,9 +19,9 @@
         "email": "jdaly@ctdata.org",
         "web": "http://ctdata.org"
     },
-    "contributor": [],
+    "contributor": [],   
     "resources": [{
-        "path": "data/distribution-of-home-sales_2011-2014.csv",
+        "path": "data/distribution-of-home-sales_2011-2013.csv",
         "format": "csv",
         "schema": {
             "fields": [{
@@ -108,12 +108,12 @@
         },
         "years_in_catalog": {
             "ckan_name": "Years in Catalog",
-            "value": ["2011", "2012", "2013", "2014"],
+            "value": ["2011", "2012", "2013"],
             "type": "array"
         },
         "latest_year": {
             "ckan_name": "Latest Year Available",
-            "value": "2014",
+            "value": "2013",
             "type": "string"
         },
         "disabled_views": {
@@ -156,14 +156,14 @@
             "type": "$lookup",
             "filter": {
                 "Town/County": "Andover",
-                "Year": "2014",
+                "Year": "2013",
                 "Price Range": "Less than $100,000",
                 "Measure Type": "Number"
             },
             "expected": {
                 "type": "$match",
                 "number type": "int",
-                "value": -9999
+                "value": 4
             }
         }
     ],
