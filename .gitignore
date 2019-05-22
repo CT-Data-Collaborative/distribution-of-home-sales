@@ -2,6 +2,7 @@
 .cache/
 .idea/
 venv/
-
+.DS_Store
 __pycache__/
 .Rproj.user
+raw/Real_Estate_Sales_2001-2016.csv
