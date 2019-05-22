@@ -13519,643 +13519,723 @@
 "Woodbridge","0900987700","2016","$400,000 and Over","Number","Number of Home Sales",50
 "Woodbury","0900587910","2016","$400,000 and Over","Number","Number of Home Sales",19
 "Woodstock","0901588190","2016","$400,000 and Over","Number","Number of Home Sales",0
-"Fairfield County","09001","2001","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2001","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2001","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2001","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2001","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2001","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2001","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2001","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2001","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2001","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2001","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2001","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2001","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2001","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2001","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2001","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2001","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2001","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2001","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2001","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2001","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2001","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2001","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2001","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2001","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2001","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2001","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2001","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2001","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2001","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2001","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2001","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2001","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2001","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2001","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2001","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2001","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2001","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2001","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2001","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2002","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2002","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2002","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2002","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2002","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2002","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2002","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2002","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2002","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2002","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2002","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2002","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2002","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2002","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2002","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2002","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2002","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2002","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2002","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2002","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2002","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2002","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2002","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2002","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2002","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2002","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2002","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2002","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2002","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2002","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2002","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2002","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2002","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2002","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2002","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2002","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2002","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2002","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2002","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2002","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2003","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2003","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2003","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2003","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2003","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2003","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2003","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2003","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2003","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2003","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2003","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2003","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2003","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2003","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2003","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2003","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2003","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2003","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2003","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2003","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2003","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2003","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2003","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2003","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2003","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2003","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2003","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2003","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2003","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2003","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2003","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2003","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2003","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2003","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2003","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2003","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2003","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2003","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2003","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2003","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2004","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2004","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2004","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2004","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2004","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2004","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2004","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2004","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2004","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2004","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2004","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2004","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2004","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2004","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2004","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2004","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2004","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2004","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2004","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2004","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2004","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2004","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2004","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2004","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2004","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2004","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2004","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2004","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2004","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2004","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2004","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2004","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2004","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2004","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2004","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2004","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2004","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2004","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2004","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2004","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2005","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2005","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2005","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2005","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2005","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2005","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2005","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2005","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2005","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2005","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2005","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2005","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2005","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2005","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2005","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2005","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2005","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2005","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2005","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2005","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2005","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2005","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2005","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2005","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2005","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2005","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2005","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2005","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2005","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2005","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2005","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2005","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2005","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2005","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2005","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2005","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2005","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2005","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2005","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2005","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2006","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2006","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2006","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2006","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2006","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2006","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2006","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2006","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2006","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2006","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2006","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2006","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2006","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2006","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2006","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2006","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2006","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2006","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2006","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2006","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2006","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2006","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2006","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2006","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2006","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2006","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2006","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2006","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2006","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2006","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2006","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2006","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2006","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2006","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2006","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2006","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2006","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2006","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2006","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2006","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2007","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2007","Less than $100,000","Number","Number of Home Sales",29
+"Fairfield County","09001","2001","Less than $100,000","Number","Number of Home Sales",233
+"Hartford County","09003","2001","Less than $100,000","Number","Number of Home Sales",472
+"Litchfield County","09005","2001","Less than $100,000","Number","Number of Home Sales",150
+"Middlesex County","09007","2001","Less than $100,000","Number","Number of Home Sales",99
+"New Haven County","09009","2001","Less than $100,000","Number","Number of Home Sales",264
+"New London County","09011","2001","Less than $100,000","Number","Number of Home Sales",226
+"Tolland County","09013","2001","Less than $100,000","Number","Number of Home Sales",128
+"Windham County","09015","2001","Less than $100,000","Number","Number of Home Sales",204
+"Fairfield County","09001","2001","$100,000 to $199,999","Number","Number of Home Sales",1254
+"Hartford County","09003","2001","$100,000 to $199,999","Number","Number of Home Sales",3844
+"Litchfield County","09005","2001","$100,000 to $199,999","Number","Number of Home Sales",867
+"Middlesex County","09007","2001","$100,000 to $199,999","Number","Number of Home Sales",669
+"New Haven County","09009","2001","$100,000 to $199,999","Number","Number of Home Sales",2330
+"New London County","09011","2001","$100,000 to $199,999","Number","Number of Home Sales",846
+"Tolland County","09013","2001","$100,000 to $199,999","Number","Number of Home Sales",661
+"Windham County","09015","2001","$100,000 to $199,999","Number","Number of Home Sales",677
+"Fairfield County","09001","2001","$200,000 to $299,000","Number","Number of Home Sales",1623
+"Hartford County","09003","2001","$200,000 to $299,000","Number","Number of Home Sales",1879
+"Litchfield County","09005","2001","$200,000 to $299,000","Number","Number of Home Sales",349
+"Middlesex County","09007","2001","$200,000 to $299,000","Number","Number of Home Sales",478
+"New Haven County","09009","2001","$200,000 to $299,000","Number","Number of Home Sales",1393
+"New London County","09011","2001","$200,000 to $299,000","Number","Number of Home Sales",277
+"Tolland County","09013","2001","$200,000 to $299,000","Number","Number of Home Sales",317
+"Windham County","09015","2001","$200,000 to $299,000","Number","Number of Home Sales",134
+"Fairfield County","09001","2001","$300,000 to $399,000","Number","Number of Home Sales",1390
+"Hartford County","09003","2001","$300,000 to $399,000","Number","Number of Home Sales",673
+"Litchfield County","09005","2001","$300,000 to $399,000","Number","Number of Home Sales",168
+"Middlesex County","09007","2001","$300,000 to $399,000","Number","Number of Home Sales",118
+"New Haven County","09009","2001","$300,000 to $399,000","Number","Number of Home Sales",714
+"New London County","09011","2001","$300,000 to $399,000","Number","Number of Home Sales",101
+"Tolland County","09013","2001","$300,000 to $399,000","Number","Number of Home Sales",70
+"Windham County","09015","2001","$300,000 to $399,000","Number","Number of Home Sales",24
+"Fairfield County","09001","2001","$400,000 and Over","Number","Number of Home Sales",3478
+"Hartford County","09003","2001","$400,000 and Over","Number","Number of Home Sales",556
+"Litchfield County","09005","2001","$400,000 and Over","Number","Number of Home Sales",158
+"Middlesex County","09007","2001","$400,000 and Over","Number","Number of Home Sales",91
+"New Haven County","09009","2001","$400,000 and Over","Number","Number of Home Sales",522
+"New London County","09011","2001","$400,000 and Over","Number","Number of Home Sales",102
+"Tolland County","09013","2001","$400,000 and Over","Number","Number of Home Sales",21
+"Windham County","09015","2001","$400,000 and Over","Number","Number of Home Sales",10
+"Fairfield County","09001","2002","Less than $100,000","Number","Number of Home Sales",239
+"Hartford County","09003","2002","Less than $100,000","Number","Number of Home Sales",515
+"Litchfield County","09005","2002","Less than $100,000","Number","Number of Home Sales",134
+"Middlesex County","09007","2002","Less than $100,000","Number","Number of Home Sales",132
+"New Haven County","09009","2002","Less than $100,000","Number","Number of Home Sales",575
+"New London County","09011","2002","Less than $100,000","Number","Number of Home Sales",460
+"Tolland County","09013","2002","Less than $100,000","Number","Number of Home Sales",203
+"Windham County","09015","2002","Less than $100,000","Number","Number of Home Sales",206
+"Fairfield County","09001","2002","$100,000 to $199,999","Number","Number of Home Sales",1710
+"Hartford County","09003","2002","$100,000 to $199,999","Number","Number of Home Sales",5882
+"Litchfield County","09005","2002","$100,000 to $199,999","Number","Number of Home Sales",1442
+"Middlesex County","09007","2002","$100,000 to $199,999","Number","Number of Home Sales",557
+"New Haven County","09009","2002","$100,000 to $199,999","Number","Number of Home Sales",4679
+"New London County","09011","2002","$100,000 to $199,999","Number","Number of Home Sales",2329
+"Tolland County","09013","2002","$100,000 to $199,999","Number","Number of Home Sales",1361
+"Windham County","09015","2002","$100,000 to $199,999","Number","Number of Home Sales",852
+"Fairfield County","09001","2002","$200,000 to $299,000","Number","Number of Home Sales",2275
+"Hartford County","09003","2002","$200,000 to $299,000","Number","Number of Home Sales",2854
+"Litchfield County","09005","2002","$200,000 to $299,000","Number","Number of Home Sales",966
+"Middlesex County","09007","2002","$200,000 to $299,000","Number","Number of Home Sales",811
+"New Haven County","09009","2002","$200,000 to $299,000","Number","Number of Home Sales",3236
+"New London County","09011","2002","$200,000 to $299,000","Number","Number of Home Sales",1238
+"Tolland County","09013","2002","$200,000 to $299,000","Number","Number of Home Sales",790
+"Windham County","09015","2002","$200,000 to $299,000","Number","Number of Home Sales",237
+"Fairfield County","09001","2002","$300,000 to $399,000","Number","Number of Home Sales",2499
+"Hartford County","09003","2002","$300,000 to $399,000","Number","Number of Home Sales",1044
+"Litchfield County","09005","2002","$300,000 to $399,000","Number","Number of Home Sales",495
+"Middlesex County","09007","2002","$300,000 to $399,000","Number","Number of Home Sales",452
+"New Haven County","09009","2002","$300,000 to $399,000","Number","Number of Home Sales",1267
+"New London County","09011","2002","$300,000 to $399,000","Number","Number of Home Sales",368
+"Tolland County","09013","2002","$300,000 to $399,000","Number","Number of Home Sales",277
+"Windham County","09015","2002","$300,000 to $399,000","Number","Number of Home Sales",48
+"Fairfield County","09001","2002","$400,000 and Over","Number","Number of Home Sales",7854
+"Hartford County","09003","2002","$400,000 and Over","Number","Number of Home Sales",758
+"Litchfield County","09005","2002","$400,000 and Over","Number","Number of Home Sales",420
+"Middlesex County","09007","2002","$400,000 and Over","Number","Number of Home Sales",357
+"New Haven County","09009","2002","$400,000 and Over","Number","Number of Home Sales",784
+"New London County","09011","2002","$400,000 and Over","Number","Number of Home Sales",252
+"Tolland County","09013","2002","$400,000 and Over","Number","Number of Home Sales",83
+"Windham County","09015","2002","$400,000 and Over","Number","Number of Home Sales",16
+"Fairfield County","09001","2003","Less than $100,000","Number","Number of Home Sales",72
+"Hartford County","09003","2003","Less than $100,000","Number","Number of Home Sales",218
+"Litchfield County","09005","2003","Less than $100,000","Number","Number of Home Sales",42
+"Middlesex County","09007","2003","Less than $100,000","Number","Number of Home Sales",63
+"New Haven County","09009","2003","Less than $100,000","Number","Number of Home Sales",453
+"New London County","09011","2003","Less than $100,000","Number","Number of Home Sales",148
+"Tolland County","09013","2003","Less than $100,000","Number","Number of Home Sales",77
+"Windham County","09015","2003","Less than $100,000","Number","Number of Home Sales",119
+"Fairfield County","09001","2003","$100,000 to $199,999","Number","Number of Home Sales",257
+"Hartford County","09003","2003","$100,000 to $199,999","Number","Number of Home Sales",3101
+"Litchfield County","09005","2003","$100,000 to $199,999","Number","Number of Home Sales",312
+"Middlesex County","09007","2003","$100,000 to $199,999","Number","Number of Home Sales",411
+"New Haven County","09009","2003","$100,000 to $199,999","Number","Number of Home Sales",3061
+"New London County","09011","2003","$100,000 to $199,999","Number","Number of Home Sales",783
+"Tolland County","09013","2003","$100,000 to $199,999","Number","Number of Home Sales",535
+"Windham County","09015","2003","$100,000 to $199,999","Number","Number of Home Sales",628
+"Fairfield County","09001","2003","$200,000 to $299,000","Number","Number of Home Sales",972
+"Hartford County","09003","2003","$200,000 to $299,000","Number","Number of Home Sales",2109
+"Litchfield County","09005","2003","$200,000 to $299,000","Number","Number of Home Sales",302
+"Middlesex County","09007","2003","$200,000 to $299,000","Number","Number of Home Sales",633
+"New Haven County","09009","2003","$200,000 to $299,000","Number","Number of Home Sales",2372
+"New London County","09011","2003","$200,000 to $299,000","Number","Number of Home Sales",846
+"Tolland County","09013","2003","$200,000 to $299,000","Number","Number of Home Sales",479
+"Windham County","09015","2003","$200,000 to $299,000","Number","Number of Home Sales",286
+"Fairfield County","09001","2003","$300,000 to $399,000","Number","Number of Home Sales",1291
+"Hartford County","09003","2003","$300,000 to $399,000","Number","Number of Home Sales",836
+"Litchfield County","09005","2003","$300,000 to $399,000","Number","Number of Home Sales",209
+"Middlesex County","09007","2003","$300,000 to $399,000","Number","Number of Home Sales",286
+"New Haven County","09009","2003","$300,000 to $399,000","Number","Number of Home Sales",1093
+"New London County","09011","2003","$300,000 to $399,000","Number","Number of Home Sales",348
+"Tolland County","09013","2003","$300,000 to $399,000","Number","Number of Home Sales",177
+"Windham County","09015","2003","$300,000 to $399,000","Number","Number of Home Sales",80
+"Fairfield County","09001","2003","$400,000 and Over","Number","Number of Home Sales",4645
+"Hartford County","09003","2003","$400,000 and Over","Number","Number of Home Sales",581
+"Litchfield County","09005","2003","$400,000 and Over","Number","Number of Home Sales",186
+"Middlesex County","09007","2003","$400,000 and Over","Number","Number of Home Sales",185
+"New Haven County","09009","2003","$400,000 and Over","Number","Number of Home Sales",929
+"New London County","09011","2003","$400,000 and Over","Number","Number of Home Sales",309
+"Tolland County","09013","2003","$400,000 and Over","Number","Number of Home Sales",71
+"Windham County","09015","2003","$400,000 and Over","Number","Number of Home Sales",20
+"Fairfield County","09001","2004","Less than $100,000","Number","Number of Home Sales",102
+"Hartford County","09003","2004","Less than $100,000","Number","Number of Home Sales",174
+"Litchfield County","09005","2004","Less than $100,000","Number","Number of Home Sales",72
+"Middlesex County","09007","2004","Less than $100,000","Number","Number of Home Sales",97
+"New Haven County","09009","2004","Less than $100,000","Number","Number of Home Sales",312
+"New London County","09011","2004","Less than $100,000","Number","Number of Home Sales",200
+"Tolland County","09013","2004","Less than $100,000","Number","Number of Home Sales",51
+"Windham County","09015","2004","Less than $100,000","Number","Number of Home Sales",83
+"Fairfield County","09001","2004","$100,000 to $199,999","Number","Number of Home Sales",474
+"Hartford County","09003","2004","$100,000 to $199,999","Number","Number of Home Sales",3289
+"Litchfield County","09005","2004","$100,000 to $199,999","Number","Number of Home Sales",681
+"Middlesex County","09007","2004","$100,000 to $199,999","Number","Number of Home Sales",321
+"New Haven County","09009","2004","$100,000 to $199,999","Number","Number of Home Sales",2562
+"New London County","09011","2004","$100,000 to $199,999","Number","Number of Home Sales",840
+"Tolland County","09013","2004","$100,000 to $199,999","Number","Number of Home Sales",311
+"Windham County","09015","2004","$100,000 to $199,999","Number","Number of Home Sales",506
+"Fairfield County","09001","2004","$200,000 to $299,000","Number","Number of Home Sales",1058
+"Hartford County","09003","2004","$200,000 to $299,000","Number","Number of Home Sales",3325
+"Litchfield County","09005","2004","$200,000 to $299,000","Number","Number of Home Sales",733
+"Middlesex County","09007","2004","$200,000 to $299,000","Number","Number of Home Sales",811
+"New Haven County","09009","2004","$200,000 to $299,000","Number","Number of Home Sales",2936
+"New London County","09011","2004","$200,000 to $299,000","Number","Number of Home Sales",1333
+"Tolland County","09013","2004","$200,000 to $299,000","Number","Number of Home Sales",464
+"Windham County","09015","2004","$200,000 to $299,000","Number","Number of Home Sales",387
+"Fairfield County","09001","2004","$300,000 to $399,000","Number","Number of Home Sales",1485
+"Hartford County","09003","2004","$300,000 to $399,000","Number","Number of Home Sales",1439
+"Litchfield County","09005","2004","$300,000 to $399,000","Number","Number of Home Sales",503
+"Middlesex County","09007","2004","$300,000 to $399,000","Number","Number of Home Sales",473
+"New Haven County","09009","2004","$300,000 to $399,000","Number","Number of Home Sales",1507
+"New London County","09011","2004","$300,000 to $399,000","Number","Number of Home Sales",532
+"Tolland County","09013","2004","$300,000 to $399,000","Number","Number of Home Sales",172
+"Windham County","09015","2004","$300,000 to $399,000","Number","Number of Home Sales",87
+"Fairfield County","09001","2004","$400,000 and Over","Number","Number of Home Sales",7316
+"Hartford County","09003","2004","$400,000 and Over","Number","Number of Home Sales",1190
+"Litchfield County","09005","2004","$400,000 and Over","Number","Number of Home Sales",578
+"Middlesex County","09007","2004","$400,000 and Over","Number","Number of Home Sales",433
+"New Haven County","09009","2004","$400,000 and Over","Number","Number of Home Sales",1273
+"New London County","09011","2004","$400,000 and Over","Number","Number of Home Sales",367
+"Tolland County","09013","2004","$400,000 and Over","Number","Number of Home Sales",63
+"Windham County","09015","2004","$400,000 and Over","Number","Number of Home Sales",38
+"Fairfield County","09001","2005","Less than $100,000","Number","Number of Home Sales",66
+"Hartford County","09003","2005","Less than $100,000","Number","Number of Home Sales",100
+"Litchfield County","09005","2005","Less than $100,000","Number","Number of Home Sales",36
+"Middlesex County","09007","2005","Less than $100,000","Number","Number of Home Sales",36
+"New Haven County","09009","2005","Less than $100,000","Number","Number of Home Sales",161
+"New London County","09011","2005","Less than $100,000","Number","Number of Home Sales",137
+"Tolland County","09013","2005","Less than $100,000","Number","Number of Home Sales",52
+"Windham County","09015","2005","Less than $100,000","Number","Number of Home Sales",48
+"Fairfield County","09001","2005","$100,000 to $199,999","Number","Number of Home Sales",350
+"Hartford County","09003","2005","$100,000 to $199,999","Number","Number of Home Sales",2363
+"Litchfield County","09005","2005","$100,000 to $199,999","Number","Number of Home Sales",484
+"Middlesex County","09007","2005","$100,000 to $199,999","Number","Number of Home Sales",212
+"New Haven County","09009","2005","$100,000 to $199,999","Number","Number of Home Sales",1356
+"New London County","09011","2005","$100,000 to $199,999","Number","Number of Home Sales",511
+"Tolland County","09013","2005","$100,000 to $199,999","Number","Number of Home Sales",253
+"Windham County","09015","2005","$100,000 to $199,999","Number","Number of Home Sales",267
+"Fairfield County","09001","2005","$200,000 to $299,000","Number","Number of Home Sales",1138
+"Hartford County","09003","2005","$200,000 to $299,000","Number","Number of Home Sales",2880
+"Litchfield County","09005","2005","$200,000 to $299,000","Number","Number of Home Sales",556
+"Middlesex County","09007","2005","$200,000 to $299,000","Number","Number of Home Sales",472
+"New Haven County","09009","2005","$200,000 to $299,000","Number","Number of Home Sales",1837
+"New London County","09011","2005","$200,000 to $299,000","Number","Number of Home Sales",1064
+"Tolland County","09013","2005","$200,000 to $299,000","Number","Number of Home Sales",520
+"Windham County","09015","2005","$200,000 to $299,000","Number","Number of Home Sales",444
+"Fairfield County","09001","2005","$300,000 to $399,000","Number","Number of Home Sales",1293
+"Hartford County","09003","2005","$300,000 to $399,000","Number","Number of Home Sales",1280
+"Litchfield County","09005","2005","$300,000 to $399,000","Number","Number of Home Sales",284
+"Middlesex County","09007","2005","$300,000 to $399,000","Number","Number of Home Sales",297
+"New Haven County","09009","2005","$300,000 to $399,000","Number","Number of Home Sales",867
+"New London County","09011","2005","$300,000 to $399,000","Number","Number of Home Sales",475
+"Tolland County","09013","2005","$300,000 to $399,000","Number","Number of Home Sales",247
+"Windham County","09015","2005","$300,000 to $399,000","Number","Number of Home Sales",108
+"Fairfield County","09001","2005","$400,000 and Over","Number","Number of Home Sales",4175
+"Hartford County","09003","2005","$400,000 and Over","Number","Number of Home Sales",1115
+"Litchfield County","09005","2005","$400,000 and Over","Number","Number of Home Sales",331
+"Middlesex County","09007","2005","$400,000 and Over","Number","Number of Home Sales",309
+"New Haven County","09009","2005","$400,000 and Over","Number","Number of Home Sales",1142
+"New London County","09011","2005","$400,000 and Over","Number","Number of Home Sales",429
+"Tolland County","09013","2005","$400,000 and Over","Number","Number of Home Sales",111
+"Windham County","09015","2005","$400,000 and Over","Number","Number of Home Sales",28
+"Fairfield County","09001","2006","Less than $100,000","Number","Number of Home Sales",34
+"Hartford County","09003","2006","Less than $100,000","Number","Number of Home Sales",54
+"Litchfield County","09005","2006","Less than $100,000","Number","Number of Home Sales",21
+"Middlesex County","09007","2006","Less than $100,000","Number","Number of Home Sales",20
+"New Haven County","09009","2006","Less than $100,000","Number","Number of Home Sales",89
+"New London County","09011","2006","Less than $100,000","Number","Number of Home Sales",50
+"Tolland County","09013","2006","Less than $100,000","Number","Number of Home Sales",17
+"Windham County","09015","2006","Less than $100,000","Number","Number of Home Sales",49
+"Fairfield County","09001","2006","$100,000 to $199,999","Number","Number of Home Sales",221
+"Hartford County","09003","2006","$100,000 to $199,999","Number","Number of Home Sales",1069
+"Litchfield County","09005","2006","$100,000 to $199,999","Number","Number of Home Sales",399
+"Middlesex County","09007","2006","$100,000 to $199,999","Number","Number of Home Sales",164
+"New Haven County","09009","2006","$100,000 to $199,999","Number","Number of Home Sales",949
+"New London County","09011","2006","$100,000 to $199,999","Number","Number of Home Sales",280
+"Tolland County","09013","2006","$100,000 to $199,999","Number","Number of Home Sales",147
+"Windham County","09015","2006","$100,000 to $199,999","Number","Number of Home Sales",304
+"Fairfield County","09001","2006","$200,000 to $299,000","Number","Number of Home Sales",872
+"Hartford County","09003","2006","$200,000 to $299,000","Number","Number of Home Sales",2065
+"Litchfield County","09005","2006","$200,000 to $299,000","Number","Number of Home Sales",470
+"Middlesex County","09007","2006","$200,000 to $299,000","Number","Number of Home Sales",522
+"New Haven County","09009","2006","$200,000 to $299,000","Number","Number of Home Sales",1708
+"New London County","09011","2006","$200,000 to $299,000","Number","Number of Home Sales",642
+"Tolland County","09013","2006","$200,000 to $299,000","Number","Number of Home Sales",397
+"Windham County","09015","2006","$200,000 to $299,000","Number","Number of Home Sales",454
+"Fairfield County","09001","2006","$300,000 to $399,000","Number","Number of Home Sales",1061
+"Hartford County","09003","2006","$300,000 to $399,000","Number","Number of Home Sales",1102
+"Litchfield County","09005","2006","$300,000 to $399,000","Number","Number of Home Sales",350
+"Middlesex County","09007","2006","$300,000 to $399,000","Number","Number of Home Sales",399
+"New Haven County","09009","2006","$300,000 to $399,000","Number","Number of Home Sales",936
+"New London County","09011","2006","$300,000 to $399,000","Number","Number of Home Sales",300
+"Tolland County","09013","2006","$300,000 to $399,000","Number","Number of Home Sales",175
+"Windham County","09015","2006","$300,000 to $399,000","Number","Number of Home Sales",110
+"Fairfield County","09001","2006","$400,000 and Over","Number","Number of Home Sales",4634
+"Hartford County","09003","2006","$400,000 and Over","Number","Number of Home Sales",901
+"Litchfield County","09005","2006","$400,000 and Over","Number","Number of Home Sales",415
+"Middlesex County","09007","2006","$400,000 and Over","Number","Number of Home Sales",318
+"New Haven County","09009","2006","$400,000 and Over","Number","Number of Home Sales",996
+"New London County","09011","2006","$400,000 and Over","Number","Number of Home Sales",260
+"Tolland County","09013","2006","$400,000 and Over","Number","Number of Home Sales",91
+"Windham County","09015","2006","$400,000 and Over","Number","Number of Home Sales",36
+"Fairfield County","09001","2007","Less than $100,000","Number","Number of Home Sales",5
+"Hartford County","09003","2007","Less than $100,000","Number","Number of Home Sales",51
 "Litchfield County","09005","2007","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2007","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2007","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2007","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2007","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2007","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2007","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2007","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2007","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2007","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2007","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2007","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2007","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2007","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2007","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2007","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2007","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2007","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2007","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2007","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2007","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2007","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2007","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2007","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2007","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2007","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2007","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2007","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2007","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2007","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2007","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2007","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2007","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2007","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2007","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2007","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2007","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2007","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2008","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2008","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2008","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2008","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2008","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2008","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2008","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2008","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2008","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2008","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2008","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2008","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2008","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2008","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2008","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2008","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2008","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2008","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2008","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2008","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2008","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2008","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2008","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2008","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2008","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2008","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2008","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2008","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2008","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2008","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2008","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2008","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2008","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2008","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2008","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2008","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2008","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2008","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2008","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2008","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2009","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2009","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2009","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2009","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2009","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2009","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2009","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2009","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2009","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2009","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2009","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2009","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2009","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2009","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2009","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2009","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2009","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2009","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2009","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2009","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2009","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2009","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2009","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2009","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2009","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2009","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2009","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2009","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2009","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2009","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2009","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2009","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2009","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2009","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2009","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2009","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2009","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2009","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2009","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2009","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2010","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2010","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2010","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2010","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2010","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2010","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2010","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2010","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2010","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2010","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2010","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2010","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2010","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2010","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2010","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2010","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2010","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2010","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2010","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2010","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2010","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2010","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2010","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2010","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2010","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2010","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2010","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2010","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2010","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2010","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2010","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2010","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2010","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2010","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2010","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2010","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2010","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2010","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2010","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2010","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2011","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2011","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2011","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2011","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2011","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2011","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2011","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2011","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2011","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2011","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2011","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2011","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2011","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2011","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2011","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2011","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2011","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2011","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2011","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2011","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2011","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2011","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2011","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2011","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2011","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2011","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2011","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2011","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2011","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2011","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2011","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2011","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2011","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2011","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2011","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2011","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2011","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2011","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2011","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2011","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2012","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2012","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2012","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2012","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2012","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2012","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2012","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2012","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2012","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2012","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2012","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2012","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2012","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2012","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2012","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2012","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2012","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2012","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2012","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2012","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2012","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2012","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2012","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2012","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2012","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2012","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2012","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2012","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2012","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2012","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2012","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2012","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2012","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2012","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2012","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2012","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2012","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2012","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2012","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2012","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2013","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2013","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2013","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2013","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2013","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2013","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2013","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2013","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2013","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2013","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2013","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2013","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2013","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2013","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2013","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2013","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2013","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2013","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2013","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2013","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2013","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2013","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2013","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2013","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2013","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2013","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2013","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2013","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2013","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2013","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2013","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2013","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2013","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2013","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2013","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2013","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2013","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2013","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2013","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2013","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2014","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2014","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2014","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2014","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2014","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2014","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2014","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2014","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2014","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2014","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2014","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2014","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2014","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2014","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2014","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2014","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2014","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2014","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2014","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2014","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2014","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2014","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2014","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2014","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2014","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2014","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2014","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2014","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2014","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2014","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2014","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2014","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2014","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2014","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2014","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2014","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2014","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2014","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2014","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2014","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2015","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2015","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2015","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2015","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2015","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2015","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2015","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2015","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2015","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2015","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2015","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2015","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2015","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2015","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2015","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2015","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2015","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2015","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2015","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2015","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2015","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2015","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2015","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2015","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2015","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2015","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2015","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2015","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2015","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2015","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2015","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2015","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2015","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2015","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2015","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2015","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2015","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2015","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2015","$400,000 and Over","Number","Number of Home Sales",13
-"Windham County","09015","2015","$400,000 and Over","Number","Number of Home Sales",15
-"Fairfield County","09001","2016","Less than $100,000","Number","Number of Home Sales",23
-"Hartford County","09003","2016","Less than $100,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2016","Less than $100,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2016","Less than $100,000","Number","Number of Home Sales",15
-"New Haven County","09009","2016","Less than $100,000","Number","Number of Home Sales",27
-"New London County","09011","2016","Less than $100,000","Number","Number of Home Sales",21
-"Tolland County","09013","2016","Less than $100,000","Number","Number of Home Sales",13
-"Windham County","09015","2016","Less than $100,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2016","$100,000 to $199,999","Number","Number of Home Sales",23
-"Hartford County","09003","2016","$100,000 to $199,999","Number","Number of Home Sales",29
-"Litchfield County","09005","2016","$100,000 to $199,999","Number","Number of Home Sales",26
-"Middlesex County","09007","2016","$100,000 to $199,999","Number","Number of Home Sales",15
-"New Haven County","09009","2016","$100,000 to $199,999","Number","Number of Home Sales",27
-"New London County","09011","2016","$100,000 to $199,999","Number","Number of Home Sales",21
-"Tolland County","09013","2016","$100,000 to $199,999","Number","Number of Home Sales",13
-"Windham County","09015","2016","$100,000 to $199,999","Number","Number of Home Sales",15
-"Fairfield County","09001","2016","$200,000 to $299,000","Number","Number of Home Sales",23
-"Hartford County","09003","2016","$200,000 to $299,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2016","$200,000 to $299,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2016","$200,000 to $299,000","Number","Number of Home Sales",15
-"New Haven County","09009","2016","$200,000 to $299,000","Number","Number of Home Sales",27
-"New London County","09011","2016","$200,000 to $299,000","Number","Number of Home Sales",21
-"Tolland County","09013","2016","$200,000 to $299,000","Number","Number of Home Sales",13
-"Windham County","09015","2016","$200,000 to $299,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2016","$300,000 to $399,000","Number","Number of Home Sales",23
-"Hartford County","09003","2016","$300,000 to $399,000","Number","Number of Home Sales",29
-"Litchfield County","09005","2016","$300,000 to $399,000","Number","Number of Home Sales",26
-"Middlesex County","09007","2016","$300,000 to $399,000","Number","Number of Home Sales",15
-"New Haven County","09009","2016","$300,000 to $399,000","Number","Number of Home Sales",27
-"New London County","09011","2016","$300,000 to $399,000","Number","Number of Home Sales",21
-"Tolland County","09013","2016","$300,000 to $399,000","Number","Number of Home Sales",13
-"Windham County","09015","2016","$300,000 to $399,000","Number","Number of Home Sales",15
-"Fairfield County","09001","2016","$400,000 and Over","Number","Number of Home Sales",23
-"Hartford County","09003","2016","$400,000 and Over","Number","Number of Home Sales",29
-"Litchfield County","09005","2016","$400,000 and Over","Number","Number of Home Sales",26
-"Middlesex County","09007","2016","$400,000 and Over","Number","Number of Home Sales",15
-"New Haven County","09009","2016","$400,000 and Over","Number","Number of Home Sales",27
-"New London County","09011","2016","$400,000 and Over","Number","Number of Home Sales",21
-"Tolland County","09013","2016","$400,000 and Over","Number","Number of Home Sales",13
+"Middlesex County","09007","2007","Less than $100,000","Number","Number of Home Sales",36
+"New Haven County","09009","2007","Less than $100,000","Number","Number of Home Sales",36
+"New London County","09011","2007","Less than $100,000","Number","Number of Home Sales",65
+"Tolland County","09013","2007","Less than $100,000","Number","Number of Home Sales",27
+"Windham County","09015","2007","Less than $100,000","Number","Number of Home Sales",27
+"Fairfield County","09001","2007","$100,000 to $199,999","Number","Number of Home Sales",140
+"Hartford County","09003","2007","$100,000 to $199,999","Number","Number of Home Sales",1112
+"Litchfield County","09005","2007","$100,000 to $199,999","Number","Number of Home Sales",250
+"Middlesex County","09007","2007","$100,000 to $199,999","Number","Number of Home Sales",60
+"New Haven County","09009","2007","$100,000 to $199,999","Number","Number of Home Sales",532
+"New London County","09011","2007","$100,000 to $199,999","Number","Number of Home Sales",328
+"Tolland County","09013","2007","$100,000 to $199,999","Number","Number of Home Sales",195
+"Windham County","09015","2007","$100,000 to $199,999","Number","Number of Home Sales",171
+"Fairfield County","09001","2007","$200,000 to $299,000","Number","Number of Home Sales",511
+"Hartford County","09003","2007","$200,000 to $299,000","Number","Number of Home Sales",1636
+"Litchfield County","09005","2007","$200,000 to $299,000","Number","Number of Home Sales",363
+"Middlesex County","09007","2007","$200,000 to $299,000","Number","Number of Home Sales",286
+"New Haven County","09009","2007","$200,000 to $299,000","Number","Number of Home Sales",1453
+"New London County","09011","2007","$200,000 to $299,000","Number","Number of Home Sales",593
+"Tolland County","09013","2007","$200,000 to $299,000","Number","Number of Home Sales",447
+"Windham County","09015","2007","$200,000 to $299,000","Number","Number of Home Sales",166
+"Fairfield County","09001","2007","$300,000 to $399,000","Number","Number of Home Sales",572
+"Hartford County","09003","2007","$300,000 to $399,000","Number","Number of Home Sales",606
+"Litchfield County","09005","2007","$300,000 to $399,000","Number","Number of Home Sales",210
+"Middlesex County","09007","2007","$300,000 to $399,000","Number","Number of Home Sales",223
+"New Haven County","09009","2007","$300,000 to $399,000","Number","Number of Home Sales",815
+"New London County","09011","2007","$300,000 to $399,000","Number","Number of Home Sales",264
+"Tolland County","09013","2007","$300,000 to $399,000","Number","Number of Home Sales",184
+"Windham County","09015","2007","$300,000 to $399,000","Number","Number of Home Sales",62
+"Fairfield County","09001","2007","$400,000 and Over","Number","Number of Home Sales",2562
+"Hartford County","09003","2007","$400,000 and Over","Number","Number of Home Sales",513
+"Litchfield County","09005","2007","$400,000 and Over","Number","Number of Home Sales",260
+"Middlesex County","09007","2007","$400,000 and Over","Number","Number of Home Sales",260
+"New Haven County","09009","2007","$400,000 and Over","Number","Number of Home Sales",586
+"New London County","09011","2007","$400,000 and Over","Number","Number of Home Sales",199
+"Tolland County","09013","2007","$400,000 and Over","Number","Number of Home Sales",103
+"Windham County","09015","2007","$400,000 and Over","Number","Number of Home Sales",17
+"Fairfield County","09001","2008","Less than $100,000","Number","Number of Home Sales",24
+"Hartford County","09003","2008","Less than $100,000","Number","Number of Home Sales",69
+"Litchfield County","09005","2008","Less than $100,000","Number","Number of Home Sales",15
+"Middlesex County","09007","2008","Less than $100,000","Number","Number of Home Sales",30
+"New Haven County","09009","2008","Less than $100,000","Number","Number of Home Sales",80
+"New London County","09011","2008","Less than $100,000","Number","Number of Home Sales",55
+"Tolland County","09013","2008","Less than $100,000","Number","Number of Home Sales",25
+"Windham County","09015","2008","Less than $100,000","Number","Number of Home Sales",48
+"Fairfield County","09001","2008","$100,000 to $199,999","Number","Number of Home Sales",89
+"Hartford County","09003","2008","$100,000 to $199,999","Number","Number of Home Sales",1321
+"Litchfield County","09005","2008","$100,000 to $199,999","Number","Number of Home Sales",274
+"Middlesex County","09007","2008","$100,000 to $199,999","Number","Number of Home Sales",170
+"New Haven County","09009","2008","$100,000 to $199,999","Number","Number of Home Sales",946
+"New London County","09011","2008","$100,000 to $199,999","Number","Number of Home Sales",276
+"Tolland County","09013","2008","$100,000 to $199,999","Number","Number of Home Sales",176
+"Windham County","09015","2008","$100,000 to $199,999","Number","Number of Home Sales",267
+"Fairfield County","09001","2008","$200,000 to $299,000","Number","Number of Home Sales",443
+"Hartford County","09003","2008","$200,000 to $299,000","Number","Number of Home Sales",1455
+"Litchfield County","09005","2008","$200,000 to $299,000","Number","Number of Home Sales",172
+"Middlesex County","09007","2008","$200,000 to $299,000","Number","Number of Home Sales",336
+"New Haven County","09009","2008","$200,000 to $299,000","Number","Number of Home Sales",1291
+"New London County","09011","2008","$200,000 to $299,000","Number","Number of Home Sales",471
+"Tolland County","09013","2008","$200,000 to $299,000","Number","Number of Home Sales",338
+"Windham County","09015","2008","$200,000 to $299,000","Number","Number of Home Sales",186
+"Fairfield County","09001","2008","$300,000 to $399,000","Number","Number of Home Sales",531
+"Hartford County","09003","2008","$300,000 to $399,000","Number","Number of Home Sales",599
+"Litchfield County","09005","2008","$300,000 to $399,000","Number","Number of Home Sales",96
+"Middlesex County","09007","2008","$300,000 to $399,000","Number","Number of Home Sales",190
+"New Haven County","09009","2008","$300,000 to $399,000","Number","Number of Home Sales",611
+"New London County","09011","2008","$300,000 to $399,000","Number","Number of Home Sales",190
+"Tolland County","09013","2008","$300,000 to $399,000","Number","Number of Home Sales",126
+"Windham County","09015","2008","$300,000 to $399,000","Number","Number of Home Sales",43
+"Fairfield County","09001","2008","$400,000 and Over","Number","Number of Home Sales",1785
+"Hartford County","09003","2008","$400,000 and Over","Number","Number of Home Sales",441
+"Litchfield County","09005","2008","$400,000 and Over","Number","Number of Home Sales",100
+"Middlesex County","09007","2008","$400,000 and Over","Number","Number of Home Sales",113
+"New Haven County","09009","2008","$400,000 and Over","Number","Number of Home Sales",483
+"New London County","09011","2008","$400,000 and Over","Number","Number of Home Sales",177
+"Tolland County","09013","2008","$400,000 and Over","Number","Number of Home Sales",79
+"Windham County","09015","2008","$400,000 and Over","Number","Number of Home Sales",17
+"Fairfield County","09001","2009","Less than $100,000","Number","Number of Home Sales",33
+"Hartford County","09003","2009","Less than $100,000","Number","Number of Home Sales",58
+"Litchfield County","09005","2009","Less than $100,000","Number","Number of Home Sales",13
+"Middlesex County","09007","2009","Less than $100,000","Number","Number of Home Sales",29
+"New Haven County","09009","2009","Less than $100,000","Number","Number of Home Sales",62
+"New London County","09011","2009","Less than $100,000","Number","Number of Home Sales",87
+"Tolland County","09013","2009","Less than $100,000","Number","Number of Home Sales",8
+"Windham County","09015","2009","Less than $100,000","Number","Number of Home Sales",30
+"Fairfield County","09001","2009","$100,000 to $199,999","Number","Number of Home Sales",190
+"Hartford County","09003","2009","$100,000 to $199,999","Number","Number of Home Sales",1632
+"Litchfield County","09005","2009","$100,000 to $199,999","Number","Number of Home Sales",341
+"Middlesex County","09007","2009","$100,000 to $199,999","Number","Number of Home Sales",177
+"New Haven County","09009","2009","$100,000 to $199,999","Number","Number of Home Sales",1136
+"New London County","09011","2009","$100,000 to $199,999","Number","Number of Home Sales",411
+"Tolland County","09013","2009","$100,000 to $199,999","Number","Number of Home Sales",158
+"Windham County","09015","2009","$100,000 to $199,999","Number","Number of Home Sales",251
+"Fairfield County","09001","2009","$200,000 to $299,000","Number","Number of Home Sales",482
+"Hartford County","09003","2009","$200,000 to $299,000","Number","Number of Home Sales",1867
+"Litchfield County","09005","2009","$200,000 to $299,000","Number","Number of Home Sales",307
+"Middlesex County","09007","2009","$200,000 to $299,000","Number","Number of Home Sales",453
+"New Haven County","09009","2009","$200,000 to $299,000","Number","Number of Home Sales",1330
+"New London County","09011","2009","$200,000 to $299,000","Number","Number of Home Sales",586
+"Tolland County","09013","2009","$200,000 to $299,000","Number","Number of Home Sales",229
+"Windham County","09015","2009","$200,000 to $299,000","Number","Number of Home Sales",131
+"Fairfield County","09001","2009","$300,000 to $399,000","Number","Number of Home Sales",752
+"Hartford County","09003","2009","$300,000 to $399,000","Number","Number of Home Sales",792
+"Litchfield County","09005","2009","$300,000 to $399,000","Number","Number of Home Sales",170
+"Middlesex County","09007","2009","$300,000 to $399,000","Number","Number of Home Sales",272
+"New Haven County","09009","2009","$300,000 to $399,000","Number","Number of Home Sales",665
+"New London County","09011","2009","$300,000 to $399,000","Number","Number of Home Sales",227
+"Tolland County","09013","2009","$300,000 to $399,000","Number","Number of Home Sales",63
+"Windham County","09015","2009","$300,000 to $399,000","Number","Number of Home Sales",22
+"Fairfield County","09001","2009","$400,000 and Over","Number","Number of Home Sales",3482
+"Hartford County","09003","2009","$400,000 and Over","Number","Number of Home Sales",670
+"Litchfield County","09005","2009","$400,000 and Over","Number","Number of Home Sales",209
+"Middlesex County","09007","2009","$400,000 and Over","Number","Number of Home Sales",203
+"New Haven County","09009","2009","$400,000 and Over","Number","Number of Home Sales",558
+"New London County","09011","2009","$400,000 and Over","Number","Number of Home Sales",186
+"Tolland County","09013","2009","$400,000 and Over","Number","Number of Home Sales",38
+"Windham County","09015","2009","$400,000 and Over","Number","Number of Home Sales",10
+"Fairfield County","09001","2010","Less than $100,000","Number","Number of Home Sales",48
+"Hartford County","09003","2010","Less than $100,000","Number","Number of Home Sales",84
+"Litchfield County","09005","2010","Less than $100,000","Number","Number of Home Sales",16
+"Middlesex County","09007","2010","Less than $100,000","Number","Number of Home Sales",32
+"New Haven County","09009","2010","Less than $100,000","Number","Number of Home Sales",111
+"New London County","09011","2010","Less than $100,000","Number","Number of Home Sales",71
+"Tolland County","09013","2010","Less than $100,000","Number","Number of Home Sales",35
+"Windham County","09015","2010","Less than $100,000","Number","Number of Home Sales",56
+"Fairfield County","09001","2010","$100,000 to $199,999","Number","Number of Home Sales",232
+"Hartford County","09003","2010","$100,000 to $199,999","Number","Number of Home Sales",1210
+"Litchfield County","09005","2010","$100,000 to $199,999","Number","Number of Home Sales",193
+"Middlesex County","09007","2010","$100,000 to $199,999","Number","Number of Home Sales",116
+"New Haven County","09009","2010","$100,000 to $199,999","Number","Number of Home Sales",660
+"New London County","09011","2010","$100,000 to $199,999","Number","Number of Home Sales",307
+"Tolland County","09013","2010","$100,000 to $199,999","Number","Number of Home Sales",140
+"Windham County","09015","2010","$100,000 to $199,999","Number","Number of Home Sales",236
+"Fairfield County","09001","2010","$200,000 to $299,000","Number","Number of Home Sales",491
+"Hartford County","09003","2010","$200,000 to $299,000","Number","Number of Home Sales",1227
+"Litchfield County","09005","2010","$200,000 to $299,000","Number","Number of Home Sales",161
+"Middlesex County","09007","2010","$200,000 to $299,000","Number","Number of Home Sales",207
+"New Haven County","09009","2010","$200,000 to $299,000","Number","Number of Home Sales",705
+"New London County","09011","2010","$200,000 to $299,000","Number","Number of Home Sales",316
+"Tolland County","09013","2010","$200,000 to $299,000","Number","Number of Home Sales",211
+"Windham County","09015","2010","$200,000 to $299,000","Number","Number of Home Sales",125
+"Fairfield County","09001","2010","$300,000 to $399,000","Number","Number of Home Sales",475
+"Hartford County","09003","2010","$300,000 to $399,000","Number","Number of Home Sales",624
+"Litchfield County","09005","2010","$300,000 to $399,000","Number","Number of Home Sales",101
+"Middlesex County","09007","2010","$300,000 to $399,000","Number","Number of Home Sales",127
+"New Haven County","09009","2010","$300,000 to $399,000","Number","Number of Home Sales",374
+"New London County","09011","2010","$300,000 to $399,000","Number","Number of Home Sales",144
+"Tolland County","09013","2010","$300,000 to $399,000","Number","Number of Home Sales",96
+"Windham County","09015","2010","$300,000 to $399,000","Number","Number of Home Sales",23
+"Fairfield County","09001","2010","$400,000 and Over","Number","Number of Home Sales",1509
+"Hartford County","09003","2010","$400,000 and Over","Number","Number of Home Sales",647
+"Litchfield County","09005","2010","$400,000 and Over","Number","Number of Home Sales",137
+"Middlesex County","09007","2010","$400,000 and Over","Number","Number of Home Sales",137
+"New Haven County","09009","2010","$400,000 and Over","Number","Number of Home Sales",394
+"New London County","09011","2010","$400,000 and Over","Number","Number of Home Sales",137
+"Tolland County","09013","2010","$400,000 and Over","Number","Number of Home Sales",48
+"Windham County","09015","2010","$400,000 and Over","Number","Number of Home Sales",12
+"Fairfield County","09001","2011","Less than $100,000","Number","Number of Home Sales",57
+"Hartford County","09003","2011","Less than $100,000","Number","Number of Home Sales",36
+"Litchfield County","09005","2011","Less than $100,000","Number","Number of Home Sales",15
+"Middlesex County","09007","2011","Less than $100,000","Number","Number of Home Sales",28
+"New Haven County","09009","2011","Less than $100,000","Number","Number of Home Sales",155
+"New London County","09011","2011","Less than $100,000","Number","Number of Home Sales",33
+"Tolland County","09013","2011","Less than $100,000","Number","Number of Home Sales",16
+"Windham County","09015","2011","Less than $100,000","Number","Number of Home Sales",52
+"Fairfield County","09001","2011","$100,000 to $199,999","Number","Number of Home Sales",335
+"Hartford County","09003","2011","$100,000 to $199,999","Number","Number of Home Sales",774
+"Litchfield County","09005","2011","$100,000 to $199,999","Number","Number of Home Sales",246
+"Middlesex County","09007","2011","$100,000 to $199,999","Number","Number of Home Sales",220
+"New Haven County","09009","2011","$100,000 to $199,999","Number","Number of Home Sales",968
+"New London County","09011","2011","$100,000 to $199,999","Number","Number of Home Sales",243
+"Tolland County","09013","2011","$100,000 to $199,999","Number","Number of Home Sales",113
+"Windham County","09015","2011","$100,000 to $199,999","Number","Number of Home Sales",287
+"Fairfield County","09001","2011","$200,000 to $299,000","Number","Number of Home Sales",492
+"Hartford County","09003","2011","$200,000 to $299,000","Number","Number of Home Sales",881
+"Litchfield County","09005","2011","$200,000 to $299,000","Number","Number of Home Sales",239
+"Middlesex County","09007","2011","$200,000 to $299,000","Number","Number of Home Sales",375
+"New Haven County","09009","2011","$200,000 to $299,000","Number","Number of Home Sales",831
+"New London County","09011","2011","$200,000 to $299,000","Number","Number of Home Sales",262
+"Tolland County","09013","2011","$200,000 to $299,000","Number","Number of Home Sales",206
+"Windham County","09015","2011","$200,000 to $299,000","Number","Number of Home Sales",99
+"Fairfield County","09001","2011","$300,000 to $399,000","Number","Number of Home Sales",535
+"Hartford County","09003","2011","$300,000 to $399,000","Number","Number of Home Sales",474
+"Litchfield County","09005","2011","$300,000 to $399,000","Number","Number of Home Sales",116
+"Middlesex County","09007","2011","$300,000 to $399,000","Number","Number of Home Sales",229
+"New Haven County","09009","2011","$300,000 to $399,000","Number","Number of Home Sales",406
+"New London County","09011","2011","$300,000 to $399,000","Number","Number of Home Sales",122
+"Tolland County","09013","2011","$300,000 to $399,000","Number","Number of Home Sales",80
+"Windham County","09015","2011","$300,000 to $399,000","Number","Number of Home Sales",19
+"Fairfield County","09001","2011","$400,000 and Over","Number","Number of Home Sales",2831
+"Hartford County","09003","2011","$400,000 and Over","Number","Number of Home Sales",543
+"Litchfield County","09005","2011","$400,000 and Over","Number","Number of Home Sales",176
+"Middlesex County","09007","2011","$400,000 and Over","Number","Number of Home Sales",185
+"New Haven County","09009","2011","$400,000 and Over","Number","Number of Home Sales",490
+"New London County","09011","2011","$400,000 and Over","Number","Number of Home Sales",103
+"Tolland County","09013","2011","$400,000 and Over","Number","Number of Home Sales",53
+"Windham County","09015","2011","$400,000 and Over","Number","Number of Home Sales",5
+"Fairfield County","09001","2012","Less than $100,000","Number","Number of Home Sales",45
+"Hartford County","09003","2012","Less than $100,000","Number","Number of Home Sales",60
+"Litchfield County","09005","2012","Less than $100,000","Number","Number of Home Sales",8
+"Middlesex County","09007","2012","Less than $100,000","Number","Number of Home Sales",49
+"New Haven County","09009","2012","Less than $100,000","Number","Number of Home Sales",87
+"New London County","09011","2012","Less than $100,000","Number","Number of Home Sales",80
+"Tolland County","09013","2012","Less than $100,000","Number","Number of Home Sales",40
+"Windham County","09015","2012","Less than $100,000","Number","Number of Home Sales",68
+"Fairfield County","09001","2012","$100,000 to $199,999","Number","Number of Home Sales",310
+"Hartford County","09003","2012","$100,000 to $199,999","Number","Number of Home Sales",1330
+"Litchfield County","09005","2012","$100,000 to $199,999","Number","Number of Home Sales",327
+"Middlesex County","09007","2012","$100,000 to $199,999","Number","Number of Home Sales",227
+"New Haven County","09009","2012","$100,000 to $199,999","Number","Number of Home Sales",862
+"New London County","09011","2012","$100,000 to $199,999","Number","Number of Home Sales",408
+"Tolland County","09013","2012","$100,000 to $199,999","Number","Number of Home Sales",291
+"Windham County","09015","2012","$100,000 to $199,999","Number","Number of Home Sales",250
+"Fairfield County","09001","2012","$200,000 to $299,000","Number","Number of Home Sales",544
+"Hartford County","09003","2012","$200,000 to $299,000","Number","Number of Home Sales",1234
+"Litchfield County","09005","2012","$200,000 to $299,000","Number","Number of Home Sales",284
+"Middlesex County","09007","2012","$200,000 to $299,000","Number","Number of Home Sales",387
+"New Haven County","09009","2012","$200,000 to $299,000","Number","Number of Home Sales",1067
+"New London County","09011","2012","$200,000 to $299,000","Number","Number of Home Sales",440
+"Tolland County","09013","2012","$200,000 to $299,000","Number","Number of Home Sales",373
+"Windham County","09015","2012","$200,000 to $299,000","Number","Number of Home Sales",147
+"Fairfield County","09001","2012","$300,000 to $399,000","Number","Number of Home Sales",608
+"Hartford County","09003","2012","$300,000 to $399,000","Number","Number of Home Sales",666
+"Litchfield County","09005","2012","$300,000 to $399,000","Number","Number of Home Sales",151
+"Middlesex County","09007","2012","$300,000 to $399,000","Number","Number of Home Sales",236
+"New Haven County","09009","2012","$300,000 to $399,000","Number","Number of Home Sales",656
+"New London County","09011","2012","$300,000 to $399,000","Number","Number of Home Sales",180
+"Tolland County","09013","2012","$300,000 to $399,000","Number","Number of Home Sales",178
+"Windham County","09015","2012","$300,000 to $399,000","Number","Number of Home Sales",34
+"Fairfield County","09001","2012","$400,000 and Over","Number","Number of Home Sales",2858
+"Hartford County","09003","2012","$400,000 and Over","Number","Number of Home Sales",694
+"Litchfield County","09005","2012","$400,000 and Over","Number","Number of Home Sales",147
+"Middlesex County","09007","2012","$400,000 and Over","Number","Number of Home Sales",182
+"New Haven County","09009","2012","$400,000 and Over","Number","Number of Home Sales",585
+"New London County","09011","2012","$400,000 and Over","Number","Number of Home Sales",131
+"Tolland County","09013","2012","$400,000 and Over","Number","Number of Home Sales",73
+"Windham County","09015","2012","$400,000 and Over","Number","Number of Home Sales",14
+"Fairfield County","09001","2013","Less than $100,000","Number","Number of Home Sales",80
+"Hartford County","09003","2013","Less than $100,000","Number","Number of Home Sales",119
+"Litchfield County","09005","2013","Less than $100,000","Number","Number of Home Sales",12
+"Middlesex County","09007","2013","Less than $100,000","Number","Number of Home Sales",34
+"New Haven County","09009","2013","Less than $100,000","Number","Number of Home Sales",136
+"New London County","09011","2013","Less than $100,000","Number","Number of Home Sales",92
+"Tolland County","09013","2013","Less than $100,000","Number","Number of Home Sales",35
+"Windham County","09015","2013","Less than $100,000","Number","Number of Home Sales",22
+"Fairfield County","09001","2013","$100,000 to $199,999","Number","Number of Home Sales",378
+"Hartford County","09003","2013","$100,000 to $199,999","Number","Number of Home Sales",1682
+"Litchfield County","09005","2013","$100,000 to $199,999","Number","Number of Home Sales",282
+"Middlesex County","09007","2013","$100,000 to $199,999","Number","Number of Home Sales",125
+"New Haven County","09009","2013","$100,000 to $199,999","Number","Number of Home Sales",1192
+"New London County","09011","2013","$100,000 to $199,999","Number","Number of Home Sales",386
+"Tolland County","09013","2013","$100,000 to $199,999","Number","Number of Home Sales",274
+"Windham County","09015","2013","$100,000 to $199,999","Number","Number of Home Sales",216
+"Fairfield County","09001","2013","$200,000 to $299,000","Number","Number of Home Sales",778
+"Hartford County","09003","2013","$200,000 to $299,000","Number","Number of Home Sales",1293
+"Litchfield County","09005","2013","$200,000 to $299,000","Number","Number of Home Sales",183
+"Middlesex County","09007","2013","$200,000 to $299,000","Number","Number of Home Sales",277
+"New Haven County","09009","2013","$200,000 to $299,000","Number","Number of Home Sales",1092
+"New London County","09011","2013","$200,000 to $299,000","Number","Number of Home Sales",502
+"Tolland County","09013","2013","$200,000 to $299,000","Number","Number of Home Sales",387
+"Windham County","09015","2013","$200,000 to $299,000","Number","Number of Home Sales",160
+"Fairfield County","09001","2013","$300,000 to $399,000","Number","Number of Home Sales",757
+"Hartford County","09003","2013","$300,000 to $399,000","Number","Number of Home Sales",700
+"Litchfield County","09005","2013","$300,000 to $399,000","Number","Number of Home Sales",95
+"Middlesex County","09007","2013","$300,000 to $399,000","Number","Number of Home Sales",169
+"New Haven County","09009","2013","$300,000 to $399,000","Number","Number of Home Sales",579
+"New London County","09011","2013","$300,000 to $399,000","Number","Number of Home Sales",238
+"Tolland County","09013","2013","$300,000 to $399,000","Number","Number of Home Sales",148
+"Windham County","09015","2013","$300,000 to $399,000","Number","Number of Home Sales",35
+"Fairfield County","09001","2013","$400,000 and Over","Number","Number of Home Sales",3072
+"Hartford County","09003","2013","$400,000 and Over","Number","Number of Home Sales",654
+"Litchfield County","09005","2013","$400,000 and Over","Number","Number of Home Sales",111
+"Middlesex County","09007","2013","$400,000 and Over","Number","Number of Home Sales",144
+"New Haven County","09009","2013","$400,000 and Over","Number","Number of Home Sales",400
+"New London County","09011","2013","$400,000 and Over","Number","Number of Home Sales",191
+"Tolland County","09013","2013","$400,000 and Over","Number","Number of Home Sales",95
+"Windham County","09015","2013","$400,000 and Over","Number","Number of Home Sales",12
+"Fairfield County","09001","2014","Less than $100,000","Number","Number of Home Sales",918
+"Hartford County","09003","2014","Less than $100,000","Number","Number of Home Sales",1797
+"Litchfield County","09005","2014","Less than $100,000","Number","Number of Home Sales",605
+"Middlesex County","09007","2014","Less than $100,000","Number","Number of Home Sales",307
+"New Haven County","09009","2014","Less than $100,000","Number","Number of Home Sales",2518
+"New London County","09011","2014","Less than $100,000","Number","Number of Home Sales",904
+"Tolland County","09013","2014","Less than $100,000","Number","Number of Home Sales",219
+"Windham County","09015","2014","Less than $100,000","Number","Number of Home Sales",332
+"Fairfield County","09001","2014","$100,000 to $199,999","Number","Number of Home Sales",1560
+"Hartford County","09003","2014","$100,000 to $199,999","Number","Number of Home Sales",4259
+"Litchfield County","09005","2014","$100,000 to $199,999","Number","Number of Home Sales",883
+"Middlesex County","09007","2014","$100,000 to $199,999","Number","Number of Home Sales",747
+"New Haven County","09009","2014","$100,000 to $199,999","Number","Number of Home Sales",3280
+"New London County","09011","2014","$100,000 to $199,999","Number","Number of Home Sales",1185
+"Tolland County","09013","2014","$100,000 to $199,999","Number","Number of Home Sales",426
+"Windham County","09015","2014","$100,000 to $199,999","Number","Number of Home Sales",556
+"Fairfield County","09001","2014","$200,000 to $299,000","Number","Number of Home Sales",1656
+"Hartford County","09003","2014","$200,000 to $299,000","Number","Number of Home Sales",2667
+"Litchfield County","09005","2014","$200,000 to $299,000","Number","Number of Home Sales",558
+"Middlesex County","09007","2014","$200,000 to $299,000","Number","Number of Home Sales",726
+"New Haven County","09009","2014","$200,000 to $299,000","Number","Number of Home Sales",2065
+"New London County","09011","2014","$200,000 to $299,000","Number","Number of Home Sales",817
+"Tolland County","09013","2014","$200,000 to $299,000","Number","Number of Home Sales",398
+"Windham County","09015","2014","$200,000 to $299,000","Number","Number of Home Sales",228
+"Fairfield County","09001","2014","$300,000 to $399,000","Number","Number of Home Sales",1756
+"Hartford County","09003","2014","$300,000 to $399,000","Number","Number of Home Sales",1228
+"Litchfield County","09005","2014","$300,000 to $399,000","Number","Number of Home Sales",279
+"Middlesex County","09007","2014","$300,000 to $399,000","Number","Number of Home Sales",369
+"New Haven County","09009","2014","$300,000 to $399,000","Number","Number of Home Sales",1032
+"New London County","09011","2014","$300,000 to $399,000","Number","Number of Home Sales",360
+"Tolland County","09013","2014","$300,000 to $399,000","Number","Number of Home Sales",140
+"Windham County","09015","2014","$300,000 to $399,000","Number","Number of Home Sales",66
+"Fairfield County","09001","2014","$400,000 and Over","Number","Number of Home Sales",5694
+"Hartford County","09003","2014","$400,000 and Over","Number","Number of Home Sales",1116
+"Litchfield County","09005","2014","$400,000 and Over","Number","Number of Home Sales",303
+"Middlesex County","09007","2014","$400,000 and Over","Number","Number of Home Sales",324
+"New Haven County","09009","2014","$400,000 and Over","Number","Number of Home Sales",904
+"New London County","09011","2014","$400,000 and Over","Number","Number of Home Sales",299
+"Tolland County","09013","2014","$400,000 and Over","Number","Number of Home Sales",82
+"Windham County","09015","2014","$400,000 and Over","Number","Number of Home Sales",23
+"Fairfield County","09001","2015","Less than $100,000","Number","Number of Home Sales",141
+"Hartford County","09003","2015","Less than $100,000","Number","Number of Home Sales",439
+"Litchfield County","09005","2015","Less than $100,000","Number","Number of Home Sales",123
+"Middlesex County","09007","2015","Less than $100,000","Number","Number of Home Sales",86
+"New Haven County","09009","2015","Less than $100,000","Number","Number of Home Sales",540
+"New London County","09011","2015","Less than $100,000","Number","Number of Home Sales",249
+"Tolland County","09013","2015","Less than $100,000","Number","Number of Home Sales",65
+"Windham County","09015","2015","Less than $100,000","Number","Number of Home Sales",114
+"Fairfield County","09001","2015","$100,000 to $199,999","Number","Number of Home Sales",679
+"Hartford County","09003","2015","$100,000 to $199,999","Number","Number of Home Sales",3219
+"Litchfield County","09005","2015","$100,000 to $199,999","Number","Number of Home Sales",612
+"Middlesex County","09007","2015","$100,000 to $199,999","Number","Number of Home Sales",388
+"New Haven County","09009","2015","$100,000 to $199,999","Number","Number of Home Sales",1813
+"New London County","09011","2015","$100,000 to $199,999","Number","Number of Home Sales",859
+"Tolland County","09013","2015","$100,000 to $199,999","Number","Number of Home Sales",361
+"Windham County","09015","2015","$100,000 to $199,999","Number","Number of Home Sales",524
+"Fairfield County","09001","2015","$200,000 to $299,000","Number","Number of Home Sales",1428
+"Hartford County","09003","2015","$200,000 to $299,000","Number","Number of Home Sales",2453
+"Litchfield County","09005","2015","$200,000 to $299,000","Number","Number of Home Sales",370
+"Middlesex County","09007","2015","$200,000 to $299,000","Number","Number of Home Sales",414
+"New Haven County","09009","2015","$200,000 to $299,000","Number","Number of Home Sales",1623
+"New London County","09011","2015","$200,000 to $299,000","Number","Number of Home Sales",722
+"Tolland County","09013","2015","$200,000 to $299,000","Number","Number of Home Sales",460
+"Windham County","09015","2015","$200,000 to $299,000","Number","Number of Home Sales",258
+"Fairfield County","09001","2015","$300,000 to $399,000","Number","Number of Home Sales",1260
+"Hartford County","09003","2015","$300,000 to $399,000","Number","Number of Home Sales",1168
+"Litchfield County","09005","2015","$300,000 to $399,000","Number","Number of Home Sales",187
+"Middlesex County","09007","2015","$300,000 to $399,000","Number","Number of Home Sales",235
+"New Haven County","09009","2015","$300,000 to $399,000","Number","Number of Home Sales",917
+"New London County","09011","2015","$300,000 to $399,000","Number","Number of Home Sales",306
+"Tolland County","09013","2015","$300,000 to $399,000","Number","Number of Home Sales",174
+"Windham County","09015","2015","$300,000 to $399,000","Number","Number of Home Sales",63
+"Fairfield County","09001","2015","$400,000 and Over","Number","Number of Home Sales",3169
+"Hartford County","09003","2015","$400,000 and Over","Number","Number of Home Sales",948
+"Litchfield County","09005","2015","$400,000 and Over","Number","Number of Home Sales",166
+"Middlesex County","09007","2015","$400,000 and Over","Number","Number of Home Sales",199
+"New Haven County","09009","2015","$400,000 and Over","Number","Number of Home Sales",802
+"New London County","09011","2015","$400,000 and Over","Number","Number of Home Sales",249
+"Tolland County","09013","2015","$400,000 and Over","Number","Number of Home Sales",67
+"Windham County","09015","2015","$400,000 and Over","Number","Number of Home Sales",11
+"Fairfield County","09001","2016","Less than $100,000","Number","Number of Home Sales",298
+"Hartford County","09003","2016","Less than $100,000","Number","Number of Home Sales",333
+"Litchfield County","09005","2016","Less than $100,000","Number","Number of Home Sales",146
+"Middlesex County","09007","2016","Less than $100,000","Number","Number of Home Sales",94
+"New Haven County","09009","2016","Less than $100,000","Number","Number of Home Sales",602
+"New London County","09011","2016","Less than $100,000","Number","Number of Home Sales",180
+"Tolland County","09013","2016","Less than $100,000","Number","Number of Home Sales",34
+"Windham County","09015","2016","Less than $100,000","Number","Number of Home Sales",102
+"Fairfield County","09001","2016","$100,000 to $199,999","Number","Number of Home Sales",1103
+"Hartford County","09003","2016","$100,000 to $199,999","Number","Number of Home Sales",2382
+"Litchfield County","09005","2016","$100,000 to $199,999","Number","Number of Home Sales",581
+"Middlesex County","09007","2016","$100,000 to $199,999","Number","Number of Home Sales",537
+"New Haven County","09009","2016","$100,000 to $199,999","Number","Number of Home Sales",2182
+"New London County","09011","2016","$100,000 to $199,999","Number","Number of Home Sales",648
+"Tolland County","09013","2016","$100,000 to $199,999","Number","Number of Home Sales",261
+"Windham County","09015","2016","$100,000 to $199,999","Number","Number of Home Sales",570
+"Fairfield County","09001","2016","$200,000 to $299,000","Number","Number of Home Sales",1774
+"Hartford County","09003","2016","$200,000 to $299,000","Number","Number of Home Sales",2196
+"Litchfield County","09005","2016","$200,000 to $299,000","Number","Number of Home Sales",499
+"Middlesex County","09007","2016","$200,000 to $299,000","Number","Number of Home Sales",637
+"New Haven County","09009","2016","$200,000 to $299,000","Number","Number of Home Sales",1717
+"New London County","09011","2016","$200,000 to $299,000","Number","Number of Home Sales",539
+"Tolland County","09013","2016","$200,000 to $299,000","Number","Number of Home Sales",315
+"Windham County","09015","2016","$200,000 to $299,000","Number","Number of Home Sales",317
+"Fairfield County","09001","2016","$300,000 to $399,000","Number","Number of Home Sales",1617
+"Hartford County","09003","2016","$300,000 to $399,000","Number","Number of Home Sales",1020
+"Litchfield County","09005","2016","$300,000 to $399,000","Number","Number of Home Sales",306
+"Middlesex County","09007","2016","$300,000 to $399,000","Number","Number of Home Sales",372
+"New Haven County","09009","2016","$300,000 to $399,000","Number","Number of Home Sales",933
+"New London County","09011","2016","$300,000 to $399,000","Number","Number of Home Sales",235
+"Tolland County","09013","2016","$300,000 to $399,000","Number","Number of Home Sales",171
+"Windham County","09015","2016","$300,000 to $399,000","Number","Number of Home Sales",72
+"Fairfield County","09001","2016","$400,000 and Over","Number","Number of Home Sales",4848
+"Hartford County","09003","2016","$400,000 and Over","Number","Number of Home Sales",786
+"Litchfield County","09005","2016","$400,000 and Over","Number","Number of Home Sales",235
+"Middlesex County","09007","2016","$400,000 and Over","Number","Number of Home Sales",248
+"New Haven County","09009","2016","$400,000 and Over","Number","Number of Home Sales",712
+"New London County","09011","2016","$400,000 and Over","Number","Number of Home Sales",202
+"Tolland County","09013","2016","$400,000 and Over","Number","Number of Home Sales",88
 "Windham County","09015","2016","$400,000 and Over","Number","Number of Home Sales",15
+"Connecticut","09","2001","Less than $100,000","Number","Number of Home Sales",1776
+"Connecticut","09","2002","Less than $100,000","Number","Number of Home Sales",2464
+"Connecticut","09","2003","Less than $100,000","Number","Number of Home Sales",1192
+"Connecticut","09","2004","Less than $100,000","Number","Number of Home Sales",1091
+"Connecticut","09","2005","Less than $100,000","Number","Number of Home Sales",636
+"Connecticut","09","2006","Less than $100,000","Number","Number of Home Sales",334
+"Connecticut","09","2007","Less than $100,000","Number","Number of Home Sales",273
+"Connecticut","09","2008","Less than $100,000","Number","Number of Home Sales",346
+"Connecticut","09","2009","Less than $100,000","Number","Number of Home Sales",320
+"Connecticut","09","2010","Less than $100,000","Number","Number of Home Sales",453
+"Connecticut","09","2011","Less than $100,000","Number","Number of Home Sales",392
+"Connecticut","09","2012","Less than $100,000","Number","Number of Home Sales",437
+"Connecticut","09","2013","Less than $100,000","Number","Number of Home Sales",530
+"Connecticut","09","2014","Less than $100,000","Number","Number of Home Sales",7600
+"Connecticut","09","2015","Less than $100,000","Number","Number of Home Sales",1757
+"Connecticut","09","2016","Less than $100,000","Number","Number of Home Sales",1789
+"Connecticut","09","2001","$100,000 to $199,999","Number","Number of Home Sales",11148
+"Connecticut","09","2002","$100,000 to $199,999","Number","Number of Home Sales",18812
+"Connecticut","09","2003","$100,000 to $199,999","Number","Number of Home Sales",9088
+"Connecticut","09","2004","$100,000 to $199,999","Number","Number of Home Sales",8984
+"Connecticut","09","2005","$100,000 to $199,999","Number","Number of Home Sales",5796
+"Connecticut","09","2006","$100,000 to $199,999","Number","Number of Home Sales",3533
+"Connecticut","09","2007","$100,000 to $199,999","Number","Number of Home Sales",2788
+"Connecticut","09","2008","$100,000 to $199,999","Number","Number of Home Sales",3519
+"Connecticut","09","2009","$100,000 to $199,999","Number","Number of Home Sales",4296
+"Connecticut","09","2010","$100,000 to $199,999","Number","Number of Home Sales",3094
+"Connecticut","09","2011","$100,000 to $199,999","Number","Number of Home Sales",3186
+"Connecticut","09","2012","$100,000 to $199,999","Number","Number of Home Sales",4005
+"Connecticut","09","2013","$100,000 to $199,999","Number","Number of Home Sales",4535
+"Connecticut","09","2014","$100,000 to $199,999","Number","Number of Home Sales",12896
+"Connecticut","09","2015","$100,000 to $199,999","Number","Number of Home Sales",8455
+"Connecticut","09","2016","$100,000 to $199,999","Number","Number of Home Sales",8264
+"Connecticut","09","2001","$200,000 to $299,000","Number","Number of Home Sales",6450
+"Connecticut","09","2002","$200,000 to $299,000","Number","Number of Home Sales",12407
+"Connecticut","09","2003","$200,000 to $299,000","Number","Number of Home Sales",7999
+"Connecticut","09","2004","$200,000 to $299,000","Number","Number of Home Sales",11047
+"Connecticut","09","2005","$200,000 to $299,000","Number","Number of Home Sales",8911
+"Connecticut","09","2006","$200,000 to $299,000","Number","Number of Home Sales",7130
+"Connecticut","09","2007","$200,000 to $299,000","Number","Number of Home Sales",5455
+"Connecticut","09","2008","$200,000 to $299,000","Number","Number of Home Sales",4692
+"Connecticut","09","2009","$200,000 to $299,000","Number","Number of Home Sales",5385
+"Connecticut","09","2010","$200,000 to $299,000","Number","Number of Home Sales",3443
+"Connecticut","09","2011","$200,000 to $299,000","Number","Number of Home Sales",3385
+"Connecticut","09","2012","$200,000 to $299,000","Number","Number of Home Sales",4476
+"Connecticut","09","2013","$200,000 to $299,000","Number","Number of Home Sales",4672
+"Connecticut","09","2014","$200,000 to $299,000","Number","Number of Home Sales",9115
+"Connecticut","09","2015","$200,000 to $299,000","Number","Number of Home Sales",7728
+"Connecticut","09","2016","$200,000 to $299,000","Number","Number of Home Sales",7994
+"Connecticut","09","2001","$300,000 to $399,000","Number","Number of Home Sales",3258
+"Connecticut","09","2002","$300,000 to $399,000","Number","Number of Home Sales",6450
+"Connecticut","09","2003","$300,000 to $399,000","Number","Number of Home Sales",4320
+"Connecticut","09","2004","$300,000 to $399,000","Number","Number of Home Sales",6198
+"Connecticut","09","2005","$300,000 to $399,000","Number","Number of Home Sales",4851
+"Connecticut","09","2006","$300,000 to $399,000","Number","Number of Home Sales",4433
+"Connecticut","09","2007","$300,000 to $399,000","Number","Number of Home Sales",2936
+"Connecticut","09","2008","$300,000 to $399,000","Number","Number of Home Sales",2386
+"Connecticut","09","2009","$300,000 to $399,000","Number","Number of Home Sales",2963
+"Connecticut","09","2010","$300,000 to $399,000","Number","Number of Home Sales",1964
+"Connecticut","09","2011","$300,000 to $399,000","Number","Number of Home Sales",1981
+"Connecticut","09","2012","$300,000 to $399,000","Number","Number of Home Sales",2709
+"Connecticut","09","2013","$300,000 to $399,000","Number","Number of Home Sales",2721
+"Connecticut","09","2014","$300,000 to $399,000","Number","Number of Home Sales",5230
+"Connecticut","09","2015","$300,000 to $399,000","Number","Number of Home Sales",4310
+"Connecticut","09","2016","$300,000 to $399,000","Number","Number of Home Sales",4726
+"Connecticut","09","2001","$400,000 and Over","Number","Number of Home Sales",4938
+"Connecticut","09","2002","$400,000 and Over","Number","Number of Home Sales",10524
+"Connecticut","09","2003","$400,000 and Over","Number","Number of Home Sales",6926
+"Connecticut","09","2004","$400,000 and Over","Number","Number of Home Sales",11258
+"Connecticut","09","2005","$400,000 and Over","Number","Number of Home Sales",7640
+"Connecticut","09","2006","$400,000 and Over","Number","Number of Home Sales",7651
+"Connecticut","09","2007","$400,000 and Over","Number","Number of Home Sales",4500
+"Connecticut","09","2008","$400,000 and Over","Number","Number of Home Sales",3195
+"Connecticut","09","2009","$400,000 and Over","Number","Number of Home Sales",5356
+"Connecticut","09","2010","$400,000 and Over","Number","Number of Home Sales",3021
+"Connecticut","09","2011","$400,000 and Over","Number","Number of Home Sales",4386
+"Connecticut","09","2012","$400,000 and Over","Number","Number of Home Sales",4684
+"Connecticut","09","2013","$400,000 and Over","Number","Number of Home Sales",4679
+"Connecticut","09","2014","$400,000 and Over","Number","Number of Home Sales",8745
+"Connecticut","09","2015","$400,000 and Over","Number","Number of Home Sales",5611
+"Connecticut","09","2016","$400,000 and Over","Number","Number of Home Sales",7134
