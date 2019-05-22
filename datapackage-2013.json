@@ -2,7 +2,7 @@
     "name": "distribution-of-home-sales",
     "datapackage_version": "1.0-beta.18",
     "title": "Distribution of Home Sales",
-    "description": "Distribution of Home Sales reports the number of single family home sales by Price Range (2001-2016).",
+    "description": "Distribution of Home Sales reports the number of single family home sales by Price Range (2011-2013).",
     "version": "1.0",
     "licenses": [{
         "url": "http://opendatacommons.org/licenses/pddl/",
@@ -15,13 +15,13 @@
         "web": ""
     }],
     "author": {
-        "name": "Connecticut Data Collaborative",
-        "email": "info@ctdata.org",
+        "name": "Jenna Daly",
+        "email": "jdaly@ctdata.org",
         "web": "http://ctdata.org"
     },
     "contributor": [],   
     "resources": [{
-        "path": "data/single-family-home-sales-2001-2016.csv",
+        "path": "data/distribution-of-home-sales_2011-2013.csv",
         "format": "csv",
         "schema": {
             "fields": [{
@@ -66,11 +66,11 @@
             }]
         }
     }],
-    "last_modified": "05/22/2019",
+    "last_modified": "02/02/2017",
     "ckan_extras": {
         "full_description": {
             "ckan_name": "Full Description",
-            "value": "The Connecticut Office of Policy and Management (OPM) maintains a listing of all real estate sales with a sales price of $2,000 or greater that occur between October 1 and September 30 of each year. This dataset aggregates the number of such sales into $100,000 ranges by sale price. This dataset only takes into account sales of homes that are listed as Single Family, and are not classified by any Non-Use codes. Only municipalities not involved in a Grand List revaluation for the given year are required to report to OPM. Thus, on any given year 3/4 of all towns (around 129) report house sales. Data is typically published with a two year lag.",
+            "value": "The Connecticut Office of Policy and Management (OPM) maintains a listing of all real estate sales with a sales price of $2,000 or greater that occur between October 1 and September 30 of each year. This dataset aggregates the number of such sales into $100,000 ranges by sale price. This dataset only takes into account sales of homes that are listed as Single Family, that account for one Residential Unit, and are not classified by any Non-Use codes. Only municipalities not involved in a Grand List revaluation for the given year are required to report to OPM. Thus, on any given year 3/4 of all towns (around 129) report house sales. Data is typically published with a two year lag.",
             "type": "string"
         },
         "suppression": {
@@ -108,12 +108,12 @@
         },
         "years_in_catalog": {
             "ckan_name": "Years in Catalog",
-            "value": ["2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016"],
+            "value": ["2011", "2012", "2013"],
             "type": "array"
         },
         "latest_year": {
             "ckan_name": "Latest Year Available",
-            "value": "2016",
+            "value": "2013",
             "type": "string"
         },
         "disabled_views": {
@@ -141,7 +141,7 @@
     "spot_checks": [{
             "type": "$lookup",
             "filter": {
-                "Town/County": "Bridgeport",
+                "Town/County": "Andover",
                 "Year": "2011",
                 "Price Range": "Less than $100,000",
                 "Measure Type": "Number"
@@ -149,7 +149,7 @@
             "expected": {
                 "type": "$match",
                 "number type": "int",
-                "value": 18
+                "value": 0
             }
         },
         {
@@ -157,13 +157,13 @@
             "filter": {
                 "Town/County": "Andover",
                 "Year": "2013",
-                "Price Range": "$200,000 to $299,999",
+                "Price Range": "Less than $100,000",
                 "Measure Type": "Number"
             },
             "expected": {
                 "type": "$match",
                 "number type": "int",
-                "value": 8
+                "value": 4
             }
         }
     ],
